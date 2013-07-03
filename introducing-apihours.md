@@ -1,16 +1,16 @@
 <!-- 
 Titre : Introducing APIHours
 Date : 03/07/2013
-Événement : APIHour #X
+Événement : APIHour #3
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #X
+# APIHour #3
 
-### XXX Edition 
+### Summer Edition 
 
-#### XX/XX/2013 • LOCATION
+#### 03/07/2013 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -136,24 +136,33 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Sweeties !
 
-### Buffet offert par @clermontech & PARTENAIRE
+### Buffet offert par @clermontech & le Celtill
 
 
 <!-- ---------- Section ---------- -->
 ----
-# Menu du jour
+## Menu du jour
 
-### Intervenant 1 - Titre
-### Intervenant 2 - Titre
-### Intervenant 3 - Titre
-### Intervenant 4 - Titre
+Ergonomie Web : Les Formulaires
+#### François Yermia
+
+Introduction à Composer
+#### Kévin Gomez
+
+Mobilité et NFC dans les Transports
+#### Julien Millau
+
+Organiser son application Backbone.js
+#### Julien Muetton
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Merci !
 
-Le lieu
+### Celtill
+
+### James
 
 
 <!-- ---------- Section ---------- -->
@@ -166,7 +175,9 @@ Le lieu
 
 <!-- ---------- Section ---------- -->
 ----
-# API Hour #X+1
+# API Hour #4
 
-## Le XX/XX/XXXX à Location
+## jeudi 12 sept. 2013
+
+### Delirium Café, Clermont-Ferrand
 
