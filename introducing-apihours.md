@@ -12,13 +12,16 @@ Auteur : Julien Maupetit
 
 #### XX/XX/2013 • LOCATION
 
-<img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo">
+<img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
 [@clermontech](https://twitter.com/clermontech)
 
 [clermontech.org](http://clermontech.org)
 
 `#APIHour`
+
+<img src="images/noun_project_6036.svg" alt="wifi" />
+<div class="ssid">clermontech</div>
 
 
 ----
@@ -130,14 +133,40 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
 
+---
+# Sweeties !
+
+### Buffet offert par @clermontech & PARTENAIRE
+
+
+<!-- ---------- Section ---------- -->
 ----
-# Lieu
+# Menu du jour
 
-Merci !
+### Intervenant 1 - Titre
+### Intervenant 2 - Titre
+### Intervenant 3 - Titre
+### Intervenant 4 - Titre
 
+
+<!-- ---------- Section ---------- -->
+----
+# Merci !
+
+Le lieu
+
+
+<!-- ---------- Section ---------- -->
 ----
 # T-Shirt contest
 
+* A [Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou) qui est à l'origine de notre identité visuelle (logo & mascotte)
 * Un t-shirt offert à qui consommera la 42ème bière !
 
-* A [Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou) qui est à l'origine de notre identité visuelle (logo & mascotte)
+
+<!-- ---------- Section ---------- -->
+----
+# API Hour #X+1
+
+## Le XX/XX/XXXX à Location
+
