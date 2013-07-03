@@ -149,7 +149,13 @@ body {
 .reveal section:first-child h1 {
   margin: 0.5em; }
 .reveal section:first-child img {
-  float: right; }
+  float: left; }
+  .reveal section:first-child img.mascotte {
+    float: right; }
+.reveal section:first-child .ssid {
+  margin-top: 50px;
+  margin-left: 20px;
+  float: left; }
 .reveal section img {
   margin: 30px 0px;
   background: none;
@@ -165,9 +171,9 @@ body {
     -o-border-radius: 5px;
     border-radius: 5px; }
   .reveal section img.icon {
-    -webkit-filter: contrast(50%);
-    -moz-filter: contrast(50%);
-    filter: contrast(50%); }
+    -webkit-filter: compact(contrast(50%), false, false, false, false, false, false, false, false, false);
+    -moz-filter: compact(contrast(50%), false, false, false, false, false, false, false, false, false);
+    filter: compact(contrast(50%), false, false, false, false, false, false, false, false, false); }
 .reveal section .credit {
   font-size: 0.5em; }
   .reveal section .credit a {

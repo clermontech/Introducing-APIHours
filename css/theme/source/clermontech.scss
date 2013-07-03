@@ -5,8 +5,8 @@
  */
 
 // Default mixins and settings -----------------
-@import "../template/mixins";
-@import "../template/settings";
+@import "../../../reveal.js/css/theme/template/mixins";
+@import "../../../reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
 // Settings to override ------------------------
@@ -67,7 +67,7 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
 
 
 // Theme template ------------------------------
-@import "../template/theme";
+@import "../../../reveal.js/css/theme/template/theme";
 // ---------------------------------------------
 
 // Overriden styles
@@ -78,7 +78,15 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
         h1 {
             margin: 0.5em;
         }
-        img { float:right }
+        img {
+            float:left;
+            &.mascotte { float:right }
+        }
+        .ssid {
+            margin-top: 50px;
+            margin-left: 20px;
+            float:left;
+        }
     }
 
     img {
