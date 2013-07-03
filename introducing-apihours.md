@@ -101,7 +101,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 <!-- ---------- Section ---------- -->
 ----
-# Sponsors !
+# Sponsors!
 
 <table>
     <tr>
@@ -127,16 +127,16 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 </table>
 
 ---
-# Goodies !
+# Goodies!
 
 ### Stickers & Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
 
 ---
-# Sweeties !
+# Sweeties!
 
-### Buffet offert par @clermontech & le Celtill
+### Buffet offert par @clermontech & Le Celtill
 
 
 <!-- ---------- Section ---------- -->
@@ -181,3 +181,13 @@ Organiser son application Backbone.js
 
 ### Delirium Café, Clermont-Ferrand
 
+
+<!-- ---------- Section ---------- -->
+----
+# Participez !
+
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour3**
+
+* Envoyez **apihour3** suivi de votre message au **31 035**
+
+* Tweettez en utilisant **#APIHour3** ou **#APIHour** sur Twitter
