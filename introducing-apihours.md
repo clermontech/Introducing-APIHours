@@ -1,16 +1,16 @@
 <!-- 
 Titre : Introducing APIHours
-Date : 03/07/2013
-Événement : APIHour #3
+Date : 12/09/2013
+Événement : APIHour #4
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #3
+# APIHour #4
 
-### Summer Edition 
+### La rentrée des techos
 
-#### 03/07/2013 • Le Celtill
+#### 12/09/2013 • Le Délirium Café CF
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -106,6 +106,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 <table>
     <tr>
         <td>
+            <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="190px" />
+        </td>
+        <td>
             <img src="images/sponsors/openstudio.png" alt="OpenStudio Sponsor" width="190px" />
         </td>
         <td>
@@ -121,7 +124,10 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
             <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" />
         </td>
         <td>
-            <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" />
+            <img src="images/sponsors/manning.jpg" alt="Manning Sponsor" width="190px" />
+        </td>
+        <td>
+            <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" width="190px" />
         </td>
     </tr>
 </table>
@@ -129,65 +135,66 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Goodies!
 
-### Stickers & Boutique spreadshirt
+### Stickers, Cartes de visite 
+### &
+### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
 
 ---
 # Sweeties!
 
-### Buffet offert par @clermontech & Le Celtill
+### Buffet offert par @clermontech
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Ergonomie Web : Les Formulaires
-#### François Yermia
+Arduino, Un Système Souple Et Facile A Prendre En Main
+#### Alexandre Rault
 
-Introduction à Composer
-#### Kévin Gomez
+SCRUM - Utilisation De Bacs Pour Le Backlog
+#### Maxime Escourbiac
 
-Mobilité et NFC dans les Transports
-#### Julien Millau
+Les Tests Fonctionnels Avec CasperJS
+#### Fabien Pomerol
 
-Organiser son application Backbone.js
-#### Julien Muetton
+How I Met DevOps?
+#### Daniel Petisme
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Merci !
 
-### Celtill
+### Délirium Café CF
 
-### James
+### Dominique & sa team
 
 
 <!-- ---------- Section ---------- -->
 ----
 # T-Shirt contest
 
-* A [Sophie Navas](http://www.sophienavas.fr/) - [@agou](https://www.twitter.com/agou) qui est à l'origine de notre identité visuelle (logo & mascotte)
-* Un t-shirt offert à qui consommera la 42ème bière !
+### Paye ta 42ème bière !
 
 
 <!-- ---------- Section ---------- -->
 ----
-# API Hour #4
+# API Hour #5
 
-## jeudi 12 sept. 2013
+## mardi 29 oct. 2013
 
-### Delirium Café, Clermont-Ferrand
+### Restaurant Pizza Bio, Clermont-Ferrand
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour3**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour4**
 
-* Envoyez **apihour3** suivi de votre message au **31 035**
+* Envoyez **apihour4** suivi de votre message au **31 035**
 
-* Tweettez en utilisant **#APIHour3** ou **#APIHour** sur Twitter
+* Tweettez en utilisant **#APIHour4** ou **#APIHour** sur Twitter
