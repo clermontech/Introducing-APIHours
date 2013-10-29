@@ -148,7 +148,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Sweeties!
 
-### Buffet offert par @clermontech
+### Buffet offert par Pizza Bio
 
 
 <!-- ---------- Section ---------- -->
