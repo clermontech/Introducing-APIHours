@@ -1,16 +1,14 @@
-<!-- 
+<!--
 Titre : Introducing APIHours
-Date : 12/09/2013
-Événement : APIHour #4
+Date : 29/10/2013
+Événement : APIHour #5
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #4
+# APIHour #5
 
-### La rentrée des techos
-
-#### 12/09/2013 • Le Délirium Café CF
+### 29/10/2013 • Pizzabio
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -41,7 +39,7 @@ Auteur : Julien Maupetit
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
 
 ---
-## #APIHour 
+## #APIHour
 ... is the new Happy Hour
 
 <img src="images/noun_project_12254.svg" alt="Share" width="200px" class="icon"/>
@@ -115,6 +113,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
             <img src="images/sponsors/comsource.jpg" alt="`ComSource Sponsor" />
         </td>
         <td>
+            <img src="images/sponsors/overscan.png" alt="`Overscan Sponsor" />
+        </td>
+        <td>
             <img src="images/sponsors/itn.png" alt="ITN Sponsor" />
         </td>
         <td>
@@ -122,6 +123,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
         </td>
         <td>
             <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" />
+        </td>
+        <td>
+            <img src="images/sponsors/iut.png" alt="IUT Sponsor" />
         </td>
         <td>
             <img src="images/sponsors/manning.jpg" alt="Manning Sponsor" width="190px" />
@@ -135,7 +139,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Goodies!
 
-### Stickers, Cartes de visite 
+### Stickers, Cartes de visite
 ### &
 ### Boutique spreadshirt
 
@@ -149,52 +153,56 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 <!-- ---------- Section ---------- -->
 ----
+
+# Platydex
+
+[http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
+
+<!-- ---------- Section ---------- -->
+----
 ## Menu du jour
 
-Arduino, Un Système Souple Et Facile A Prendre En Main
-#### Alexandre Rault
+Introduction Au Framework AngularJS
+#### Eric Mas
 
-SCRUM - Utilisation De Bacs Pour Le Backlog
-#### Maxime Escourbiac
+Introduction à DNSSEC
+#### Denis Fondras
 
-Les Tests Fonctionnels Avec CasperJS
-#### Fabien Pomerol
+Présentation du BeagleBone Black
+#### Romain Tartière
 
-How I Met DevOps?
-#### Daniel Petisme
+Gestion De La Couleur Et Programmation GPU
+#### Nabil Boukala
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Merci !
 
-### Délirium Café CF
+### Pizzabio
 
-### Dominique & sa team
+### Claude et son équipe
 
 
 <!-- ---------- Section ---------- -->
 ----
 # T-Shirt contest
 
-### Paye ta 42ème bière !
+### Paye ta 42ème conso !
 
 
 <!-- ---------- Section ---------- -->
 ----
-# API Hour #5
+# API Hour #6
 
-## mardi 29 oct. 2013
-
-### Restaurant Pizza Bio, Clermont-Ferrand
-
+## mardi 17 dec. 2013
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour4**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour5**
 
-* Envoyez **apihour4** suivi de votre message au **31 035**
+* Envoyez **apihour5** suivi de votre message au **31 035**
 
-* Tweettez en utilisant **#APIHour4** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour5** ou **#APIHour** sur Twitter
