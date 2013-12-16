@@ -1,14 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 29/10/2013
-Événement : APIHour #5
+Date : 17/12/2013
+Événement : APIHour #6
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #5
+# APIHour #6
+## Xmas Edition
 
-### 29/10/2013 • Pizzabio
+### 17/12/2013 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -19,7 +20,7 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech2</div>
+<div class="ssid">clermontech(2)</div>
 
 
 ----
@@ -139,8 +140,8 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Goodies!
 
-### Stickers, Cartes de visite
-### &
+### Stickers, Cartes de visite,
+## CHOCOLATS !
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
@@ -148,7 +149,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 # Sweeties!
 
-### Buffet offert par Pizza Bio
+### "Choco Sinok"
+## &
+### Buffet préparé par le Celtill
 
 
 <!-- ---------- Section ---------- -->
@@ -162,26 +165,23 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ----
 ## Menu du jour
 
-Introduction Au Framework AngularJS
-#### Eric Mas
+Varnish, Un Serveur De Cache HTTP
+#### Mickaël Gervais
 
-Introduction à DNSSEC
-#### Denis Fondras
+L’Internet Des Objets Par L’Exemple
+#### Paul Pinault
 
-Présentation du BeagleBone Black
-#### Romain Tartière
+LINQ
+#### Frédéric Barrière
 
-Gestion De La Couleur Et Programmation GPU
-#### Nabil Boukala
-
+Le Transhumanisme
+#### David Hill
 
 <!-- ---------- Section ---------- -->
 ----
 # Merci !
 
-### Pizzabio
-
-### Claude et son équipe
+### James et l'équipe du Celtill
 
 #### Soft Events pour le matériel
 
@@ -195,16 +195,16 @@ Gestion De La Couleur Et Programmation GPU
 
 <!-- ---------- Section ---------- -->
 ----
-# API Hour #6
+# APIHour #7
 
-## mardi 17 dec. 2013
+<img src="images/icon_14383.svg" alt="map" width="200px" class="icon"/>
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour5**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour6**
 
-* Envoyez **apihour5** suivi de votre message au **31 035**
+* Envoyez **apihour6** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour5** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour6** ou **#APIHour** sur Twitter
