@@ -199,6 +199,13 @@ Le Transhumanisme
 
 <!-- ---------- Section ---------- -->
 ----
+## Microcosme Clermontois
+
+* LavaJUG le 19 décembre 2013 !
+* [@ClermontJS](https://twitter.com/ClermontJS)
+
+<!-- ---------- Section ---------- -->
+----
 # Participez !
 
 * Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour6**
