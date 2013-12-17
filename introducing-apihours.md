@@ -183,8 +183,6 @@ Le Transhumanisme
 
 ### James et l'équipe du Celtill
 
-#### Soft Events pour le matériel
-
 
 <!-- ---------- Section ---------- -->
 ----
