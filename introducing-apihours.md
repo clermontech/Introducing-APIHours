@@ -135,8 +135,8 @@ Proposez nous un talk !
 
 * 6 événements
 * 24 talks
-* 350 ornithorynques motivés
-* 50 réservations en 20 minutes pour l'APIHour \#6
+* 324 ornithorynques motivés
+* 50 réservations en 10 minutes pour l'APIHour \#7
 
 <!-- ---------- Section ---------- -->
 ----
@@ -161,7 +161,7 @@ Proposez nous un talk !
 </div>
 
 ---
-## Atelier thématiques
+## Ateliers thématiques
 
 <a href="https://twitter.com/themouette">@themouette</a>
 
@@ -206,6 +206,8 @@ Proposez nous un talk !
     </tr>
 </table>
 
+<img src="images/github-corpo.png" alt="github">
+
 ---
 # Goodies & sweeties!
 
@@ -221,15 +223,17 @@ Proposez nous un talk !
 
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
 
+<img src="images/SuperPlatypus.png" alt="super platypus">
+
 ---
 # T-Shirt contest
 
-### Paye ta 42ème conso !
+### Trouve le golden ticket !
 
 ---
 ## Microcosme Clermontois
 
-* LavaJUG
+* [@LavaJUG](https://twitter.com/LavaJUG)
 * [@ClermontJS](https://twitter.com/ClermontJS)
 
 ---
@@ -262,6 +266,6 @@ JavaScript, Past, Present, Future
 
 * Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour6**
 
-* Envoyez **apihour6** suivi de votre message au **31 035**
+* Envoyez **apihour7** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour6** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour7** ou **#APIHour** sur Twitter
