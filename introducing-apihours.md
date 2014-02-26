@@ -1,15 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 17/12/2013
-Événement : APIHour #6
+Date : 26/02/2013
+Événement : APIHour #7
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #6
-## Xmas Edition
+# APIHour #7
+## 1st Birthday Edition
 
-### 17/12/2013 • Le Celtill
+### 26/02/2014 • ~~h-park~~ Maison des Sports
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -20,12 +20,71 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech(2)</div>
+<div class="ssid">hopeyourenotonfreemobile</div>
 
+----
+<!-- ---------- Section ---------- -->
+
+# \#hparkfail
+
+---
+## \#hparkfail
+
+<img src="images/icon_34435.svg" alt="Pole vault" width="300px" class="icon"/>
+
+<div class="credit">
+    Crédit : <a href="http://thenounproject.com/term/pole-vault/34435/" target="_blank">Pole Vault</a> designed by <a href="http://thenounproject.com/MisterPixel/" target="_blank">Mister Pixel</a> from The Noun Project
+</div>
+
+----
+<!-- ---------- Section ---------- -->
+
+## The
+# story
+#### behind
+## clermont'ech
+
+<a href="https://twitter.com/couac">@couac</a>
+
+----
+<!-- ---------- Section ---------- -->
+# Manifesto
+
+<a href="https://twitter.com/manuraynaud">@manuraynaud</a>
+
+---
+# Partage
+
+<img src="images/noun_project_14291.svg" alt="Share" width="300px" class="icon"/>
+
+---
+# Ouverture
+
+Clermont'ech est technologie-agnostique.
+
+<img src="images/noun_project_8233.svg" alt="Open" width="300px" class="icon"/>
+
+---
+# Indépendance
+
+Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers extérieurs à l’association.
+
+<img src="images/noun_project_13480.svg" alt="Unlock" width="300px" class="icon"/>
+
+---
+# Respect
+
+<img src="images/noun_project_767.svg" alt="Handshake" width="500px" class="icon"/>
+
+<div class="credit">
+    Crédit : <a href="http://thenounproject.com/noun/handshake/#icon-No767" target="_blank">Handshake</a> designed by <a href="http://thenounproject.com/Jake_Nelsen" target="_blank">Jake Nelsen</a> from The Noun Project
+</div>
 
 ----
 <!-- ---------- Section ---------- -->
 # #APIHour
+
+<a href="https://twitter.com/krichprollsch">@krichprollsch</a>
 
 ---
 ## #APIHour
@@ -65,38 +124,48 @@ Proposez nous un talk !
 
 [@madmatah](https://twitter.com/madmatah) +300 vues sur YouTube en moins de 48h
 
-----
 <!-- ---------- Section ---------- -->
-# Manifesto
+----
+# The past
+
+<a href="https://twitter.com/themouette">@themouette</a>
 
 ---
-# Partage
+## The past
 
-<img src="images/noun_project_14291.svg" alt="Share" width="300px" class="icon"/>
+* 6 événements
+* 24 talks
+* 350 ornithorynques motivés
+* 50 réservations en 20 minutes pour l'APIHour \#6
 
----
-# Ouverture
-
-Clermont'ech est technologie-agnostique.
-
-<img src="images/noun_project_8233.svg" alt="Open" width="300px" class="icon"/>
-
----
-# Indépendance
-
-Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers extérieurs à l’association.
-
-<img src="images/noun_project_13480.svg" alt="Unlock" width="300px" class="icon"/>
+<!-- ---------- Section ---------- -->
+----
+# The future
 
 ---
-# Respect
+## Code & Coffee
 
-<img src="images/noun_project_767.svg" alt="Handshake" width="500px" class="icon"/>
+<a href="https://twitter.com/couac">@couac</a>
+
+<img src="images/icon_7775.svg" alt="coffee" width="300px" class="icon">
+
+---
+## \#DejDev
+
+<a href="https://twitter.com/manuraynaud">@manuraynaud</a>
+
+<img src="images/icon_28579.svg" alt="lunch bag" width="300px" class="icon">
 
 <div class="credit">
-    Crédit : <a href="http://thenounproject.com/noun/handshake/#icon-No767" target="_blank">Handshake</a> designed by <a href="http://thenounproject.com/Jake_Nelsen" target="_blank">Jake Nelsen</a> from The Noun Project
+    Crédit: <a href="http://thenounproject.com/term/lunch/24925/">lunch</a> from the noun project.
 </div>
 
+---
+## Atelier thématiques
+
+<a href="https://twitter.com/themouette">@themouette</a>
+
+<img src="images/icon_8442.svg" alt="workshop" width="300px" class="icon">
 
 <!-- ---------- Section ---------- -->
 ----
@@ -138,71 +207,54 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 </table>
 
 ---
-# Goodies!
+# Goodies & sweeties!
 
 ### Stickers, Cartes de visite,
-## CHOCOLATS !
+## MUGS !
+## Buffet
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
 
 ---
-# Sweeties!
-
-### "Choco Sinok"
-## &
-### Buffet préparé par le Celtill
-
-
-<!-- ---------- Section ---------- -->
-----
-
 # Platydex
 
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
+
+---
+# T-Shirt contest
+
+### Paye ta 42ème conso !
+
+---
+## Microcosme Clermontois
+
+* LavaJUG
+* [@ClermontJS](https://twitter.com/ClermontJS)
+
+---
+# Merci !
+
+## Maison des Sports
+
+* Nathalie Guichard (Clermont Communauté)
+* Sophie Rognon (Conseil Régional)
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Varnish, Un Serveur De Cache HTTP
-#### Mickaël Gervais
+ReactOS
+#### Pierre Schweitzer
 
-L’Internet Des Objets Par L’Exemple
-#### Paul Pinault
+Functional Concepts, An Overview
+#### Yannick Loiseau
 
-LINQ
-#### Frédéric Barrière
+Java Word, Android Word, Et Les Performances Dans Tout Ça ?
+#### Olivier Goutet
 
-Le Transhumanisme
-#### David Hill
-
-<!-- ---------- Section ---------- -->
-----
-# Merci !
-
-### James et l'équipe du Celtill
-
-
-<!-- ---------- Section ---------- -->
-----
-# T-Shirt contest
-
-### Paye ta 42ème conso !
-
-
-<!-- ---------- Section ---------- -->
-----
-# APIHour #7
-
-<img src="images/icon_14383.svg" alt="map" width="200px" class="icon"/>
-
-<!-- ---------- Section ---------- -->
-----
-## Microcosme Clermontois
-
-* LavaJUG le 19 décembre 2013 !
-* [@ClermontJS](https://twitter.com/ClermontJS)
+JavaScript, Past, Present, Future
+#### Stéphane Roucheray
 
 <!-- ---------- Section ---------- -->
 ----
