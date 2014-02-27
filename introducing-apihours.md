@@ -264,7 +264,7 @@ JavaScript, Past, Present, Future
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour6**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour7**
 
 * Envoyez **apihour7** suivi de votre message au **31 035**
 
