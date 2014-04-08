@@ -148,8 +148,8 @@ Proposez nous un talk !
 </table>
 
 ---
-# Goodies 
-## & sweeties!
+# Goodies
+## Sweeties!
 
 ### Stickers, Cartes de visite,
 ## Buffet (Pizzabio)
@@ -166,14 +166,17 @@ Proposez nous un talk !
 
 ---
 # APIHour contest
-
 ### T-Shirt
 
 Paye ta 42ème conso !
 
+---
+# APIHour contest
 ### Compte GitHub
 
 Trouve un des 4 golden tickets ou répond à la question d'un speaker
+
+<img src="images/github-corpo.png" alt="GitHub Sponsor" />
 
 ---
 ## Microcosme Clermontois
