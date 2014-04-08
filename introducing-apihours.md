@@ -1,15 +1,14 @@
 <!--
 Titre : Introducing APIHours
-Date : 26/02/2013
-Événement : APIHour #7
+Date : 08/04/2014
+Événement : APIHour #8
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #7
-## 1st Birthday Edition
+# APIHour #8
 
-### 26/02/2014 • ~~h-park~~ Maison des Sports
+### 08/04/2014 • Pizza Bio
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -20,37 +19,11 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">hopeyourenotonfreemobile</div>
-
-----
-<!-- ---------- Section ---------- -->
-
-# \#hparkfail
-
----
-## \#hparkfail
-
-<img src="images/icon_34435.svg" alt="Pole vault" width="300px" class="icon"/>
-
-<div class="credit">
-    Crédit : <a href="http://thenounproject.com/term/pole-vault/34435/" target="_blank">Pole Vault</a> designed by <a href="http://thenounproject.com/MisterPixel/" target="_blank">Mister Pixel</a> from The Noun Project
-</div>
-
-----
-<!-- ---------- Section ---------- -->
-
-## The
-# story
-#### behind
-## clermont'ech
-
-<a href="https://twitter.com/couac">@couac</a>
+<div class="ssid">clermontech</div>
 
 ----
 <!-- ---------- Section ---------- -->
 # Manifesto
-
-<a href="https://twitter.com/manuraynaud">@manuraynaud</a>
 
 ---
 # Partage
@@ -83,8 +56,6 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ----
 <!-- ---------- Section ---------- -->
 # #APIHour
-
-<a href="https://twitter.com/krichprollsch">@krichprollsch</a>
 
 ---
 ## #APIHour
@@ -126,94 +97,62 @@ Proposez nous un talk !
 
 <!-- ---------- Section ---------- -->
 ----
-# The past
-
-<a href="https://twitter.com/themouette">@themouette</a>
-
----
-## The past
-
-* 6 événements
-* 24 talks
-* 324 ornithorynques motivés
-* 50 réservations en 10 minutes pour l'APIHour \#7
-
-<!-- ---------- Section ---------- -->
-----
-# The future
-
----
-## Code & Coffee
-
-<a href="https://twitter.com/couac">@couac</a>
-
-<img src="images/icon_7775.svg" alt="coffee" width="300px" class="icon">
-
----
-## \#DejDev
-
-<a href="https://twitter.com/manuraynaud">@manuraynaud</a>
-
-<img src="images/icon_28579.svg" alt="lunch bag" width="300px" class="icon">
-
-<div class="credit">
-    Crédit: <a href="http://thenounproject.com/term/lunch/24925/">lunch</a> from the noun project.
-</div>
-
----
-## Ateliers thématiques
-
-<a href="https://twitter.com/themouette">@themouette</a>
-
-<img src="images/icon_8442.svg" alt="workshop" width="300px" class="icon">
-
-<!-- ---------- Section ---------- -->
-----
 # Sponsors!
 
 <table>
     <tr>
         <td>
-            <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="190px" />
+            <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/openstudio.png" alt="OpenStudio Sponsor" width="190px" />
+            <img src="images/sponsors/openstudio.png" alt="OpenStudio Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/comsource.jpg" alt="`ComSource Sponsor" />
+            <img src="images/sponsors/comsource.jpg" alt="`ComSource Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/overscan.png" alt="`Overscan Sponsor" />
+            <img src="images/sponsors/overscan.png" alt="`Overscan Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/itn.png" alt="ITN Sponsor" />
+            <img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/github.png" alt="Github Sponsor" />
+            <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" />
+            <img src="images/sponsors/iut.png" alt="IUT Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/iut.png" alt="IUT Sponsor" />
+            <img src="images/sponsors/manning.jpg" alt="Manning Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/manning.jpg" alt="Manning Sponsor" width="190px" />
+            <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" width="120px" />
         </td>
+    </tr>
+    <tr>
+        <td></td>
         <td>
-            <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" width="190px" />
+            <img src="images/sponsors/ibiseness.png" alt="i-Biseness Sponsor" width="120px"/>
         </td>
+        <td></td>
+        <td>
+            <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
+        </td>
+        <td></td>
     </tr>
 </table>
 
-<img src="images/github-corpo.png" alt="github">
-
 ---
-# Goodies & sweeties!
+# Goodies 
+## & sweeties!
 
 ### Stickers, Cartes de visite,
-## MUGS !
-## Buffet
+## Buffet (PizzaBio)
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
@@ -226,9 +165,15 @@ Proposez nous un talk !
 <img src="images/SuperPlatypus.png" alt="super platypus">
 
 ---
-# T-Shirt contest
+# APIHour contest
 
-### Trouve le golden ticket !
+### T-Shirt
+
+Paye ta 42ème conso !
+
+### Compte GitHub
+
+Trouve un des 4 golden tickets ou répond à la question d'un speacker
 
 ---
 ## Microcosme Clermontois
@@ -239,33 +184,34 @@ Proposez nous un talk !
 ---
 # Merci !
 
-## Maison des Sports
+### Pizzabio
 
-* Nathalie Guichard (Clermont Communauté)
-* Sophie Rognon (Conseil Régional)
+### Claude et son équipe
+
+#### Soft Events pour le matériel
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-ReactOS
-#### Pierre Schweitzer
+Logstash, mettez de la couleur dans vos logs
+#### Quentin Chapelle
 
-Functional Concepts, An Overview
-#### Yannick Loiseau
+Transfert technologique d'un C# de 15 ans d'âge à un PHP flambant neuf, suivant un cahier des charges, chargé !
+#### Baptiste Moreau
 
-Java Word, Android Word, Et Les Performances Dans Tout Ça ?
-#### Olivier Goutet
+MDos (Maison Domotique Open Source)
+#### Lionel Heymans
 
-JavaScript, Past, Present, Future
-#### Stéphane Roucheray
+From Java to Objective-C
+#### Richard Bergoin
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour7**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour8**
 
-* Envoyez **apihour7** suivi de votre message au **31 035**
+* Envoyez **apihour8** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour7** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour8** ou **#APIHour** sur Twitter
