@@ -152,7 +152,7 @@ Proposez nous un talk !
 ## & sweeties!
 
 ### Stickers, Cartes de visite,
-## Buffet (PizzaBio)
+## Buffet (Pizzabio)
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
@@ -173,7 +173,7 @@ Paye ta 42ème conso !
 
 ### Compte GitHub
 
-Trouve un des 4 golden tickets ou répond à la question d'un speacker
+Trouve un des 4 golden tickets ou répond à la question d'un speaker
 
 ---
 ## Microcosme Clermontois
