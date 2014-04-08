@@ -73,6 +73,10 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
 // Overriden styles
 .reveal section {
 
+    h3 {
+        margin: 1em 0 0.2em;
+    }
+
     // Home
     &:first-child {
         h1 {
@@ -86,6 +90,21 @@ $heading1TextShadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b
             margin-top: 50px;
             margin-left: 20px;
             float:left;
+        }
+    }
+
+    table {
+        min-width: 100%;
+
+        tr {
+            td {
+                text-align: center;
+
+                img {
+                    float: none!important;
+                    margin: 0;
+                }
+            }
         }
     }
 
