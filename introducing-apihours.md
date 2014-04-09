@@ -218,3 +218,10 @@ From Java to Objective-C
 * Envoyez **apihour8** suivi de votre message au **31 035**
 
 * Tweetez en utilisant **#APIHour8** ou **#APIHour** sur Twitter
+
+----
+# APIHour #9
+
+### Mercredi 28 Mai 2014 19h!
+
+<img src="images/icon_14383.svg" alt="where?">
