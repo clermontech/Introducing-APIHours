@@ -1,14 +1,14 @@
 <!--
 Titre : Introducing APIHours
-Date : 08/04/2014
-Événement : APIHour #8
+Date : 28/05/2014
+Événement : APIHour #9
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #8
+# APIHour #9
 
-### 08/04/2014 • Pizza Bio
+### 28/05/2014 • Prizee
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -148,11 +148,19 @@ Proposez nous un talk !
 </table>
 
 ---
-# Goodies
-## Sweeties!
+# Even more...
 
-### Stickers, Cartes de visite,
-## Buffet (Pizzabio)
+<table>
+    <tr>
+        <td>
+            <img src="images/sponsors/mailjet.png" alt="Logo MailJet">
+        </td>
+        <td>
+            <img src="images/sponsors/logo-empire-du-malt.png" alt="Logo Empire du Malt">
+        </td>
+    </tr>
+</table>
+
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
@@ -168,60 +176,67 @@ Proposez nous un talk !
 # APIHour contest
 ### T-Shirt
 
-Paye ta 42ème conso !
+La 42ème conso tu prendras !
 
 ---
 # APIHour contest
 ### Compte GitHub
 
-Trouve un des 4 golden tickets ou répond à la question d'un speaker
+Trouve un des 5 golden tickets !
 
 <img src="images/github-corpo.png" alt="GitHub Sponsor" />
 
 ---
 ## Microcosme Clermontois
 
-* [@LavaJUG](https://twitter.com/LavaJUG)
-* [@ClermontJS](https://twitter.com/ClermontJS)
+### [@LavaJUG](https://twitter.com/LavaJUG)
+
+**19 juin 2014** - Alexis Moussine-Pouchkine
+
+*Java dans le cloud : IaaS, PaaS ou les deux!*
+
+### [@ClermontJS](https://twitter.com/ClermontJS)
+
+Benjamin Heintz
+
+*Introduction à NodeJS*
 
 ---
 # Merci !
 
-### Pizzabio
+<img src="images/sponsors/logo-eefficiency.png" alt="Logo eefficiency">
 
-### Claude et son équipe
-
-#### Soft Events pour le matériel
+### T. Colombet
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Logstash, mettez de la couleur dans vos logs
-#### Quentin Chapelle
+MQTT : protocole de communication pour le M2M
+#### Paul Pinault
 
-Transfert technologique d'un C# de 15 ans d'âge à un PHP flambant neuf, suivant un cahier des charges, chargé !
-#### Baptiste Moreau
+Thelia, la solution e-commerce libre
+#### Manuel Raynaud
 
-MDos (Maison Domotique Open Source)
-#### Lionel Heymans
+La queue du lapin, retour d'expérience sur RabbitMQ
+#### Guillaume Vernat
 
-From Java to Objective-C
-#### Richard Bergoin
+Comment expliquer les preuves à divulgation nulle de connaissance à vos enfants ?
+#### Pascal Lafourcade
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour8**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour9**
 
-* Envoyez **apihour8** suivi de votre message au **31 035**
+* Envoyez **apihour9** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour8** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour9** ou **#APIHour** sur Twitter
 
 ----
-# APIHour #9
+# APIHour #10
 
-### Mercredi 28 Mai 2014 19h!
+<img src="images/misc/jon-snow.gif" alt="Jon Snow">
 
 <img src="images/icon_14383.svg" alt="where?">
