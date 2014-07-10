@@ -19,7 +19,7 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech</div>
+<div class="ssid">API_Hour // internet</div>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -197,7 +197,7 @@ Trouve un des 5 golden tickets !
 
 ### [@ClermontJS](https://twitter.com/ClermontJS)
 
-Benjamin Heintz
+**fin juin 2014** - Benjamin Heintz
 
 *Introduction à NodeJS*
 
