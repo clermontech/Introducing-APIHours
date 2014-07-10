@@ -1,14 +1,16 @@
 <!--
 Titre : Introducing APIHours
-Date : 28/05/2014
-Événement : APIHour #9
+Date : 10/07/2014
+Événement : APIHour #10
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #9
+# APIHour #10
 
-### 28/05/2014 • Prizee
+#### ~~Summer~~ Autumn Edition
+
+### 10/07/2014 • Délirium Café CF
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -19,7 +21,7 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">API_Hour // internet</div>
+<div class="ssid">clermontech</div>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -148,22 +150,15 @@ Proposez nous un talk !
 </table>
 
 ---
-# Even more...
-
-<table>
-    <tr>
-        <td>
-            <img src="images/sponsors/mailjet.png" alt="Logo MailJet">
-        </td>
-        <td>
-            <img src="images/sponsors/logo-empire-du-malt.png" alt="Logo Empire du Malt">
-        </td>
-    </tr>
-</table>
-
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
+
+### Boutique stickermule
+
+[http://www.stickermule.com/user/1070074800/stickers](http://www.stickermule.com/user/1070074800/stickers)
+
+<img src="images/the-la-baleine-sticker.png" alt="Stickermule Clermontech Baleine Sticker">
 
 ---
 # Platydex
@@ -171,6 +166,7 @@ Proposez nous un talk !
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
 
 <img src="images/SuperPlatypus.png" alt="super platypus">
+<img src="images/plasciipus.png" alt="plasciipus">
 
 ---
 # APIHour contest
@@ -178,64 +174,58 @@ Proposez nous un talk !
 
 La 42ème conso tu prendras !
 
----
-# APIHour contest
-### Compte GitHub
-
-Trouve un des 5 golden tickets !
-
-<img src="images/github-corpo.png" alt="GitHub Sponsor" />
+# 42
+## 42
+### 42
 
 ---
 ## Microcosme Clermontois
 
 ### [@LavaJUG](https://twitter.com/LavaJUG)
 
-**19 juin 2014** - Alexis Moussine-Pouchkine
-
-*Java dans le cloud : IaaS, PaaS ou les deux!*
-
 ### [@ClermontJS](https://twitter.com/ClermontJS)
 
-**fin juin 2014** - Benjamin Heintz
-
-*Introduction à NodeJS*
+<img src="images/bbt.jpg" alt="BBT">
 
 ---
 # Merci !
 
-<img src="images/sponsors/logo-eefficiency.png" alt="Logo eefficiency">
+### Dominique et l'équipe du Délirium Café CF
 
-### T. Colombet
+<img src="images/logo_del.png" alt="Logo delirium">
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-MQTT : protocole de communication pour le M2M
-#### Paul Pinault
+SQL Server 2014, introduction sur les possibilités de disponibilité et de réplication des données
+#### Eric Blanchard
 
-Thelia, la solution e-commerce libre
-#### Manuel Raynaud
+La programmation evénementielle au service de la modularité
+#### Etienne Roudeix
 
-La queue du lapin, retour d'expérience sur RabbitMQ
-#### Guillaume Vernat
+Retour de Devoxx France 2014
+#### Daniel Petisme
 
-Comment expliquer les preuves à divulgation nulle de connaissance à vos enfants ?
-#### Pascal Lafourcade
+React PHP
+#### Vincent Vermersch
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour9**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour10**
 
-* Envoyez **apihour9** suivi de votre message au **31 035**
+* Envoyez **apihour10** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour9** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour10** ou **#APIHour** sur Twitter
+
+* Participez par minitel sur `3615 WISEMBLY`
+
+<img src="images/sponsors/wisembly.png" alt="Wisembly" />
 
 ----
-# APIHour #10
+# APIHour #11
 
 <img src="images/misc/jon-snow.gif" alt="Jon Snow">
 
