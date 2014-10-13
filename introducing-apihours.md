@@ -6,11 +6,11 @@ Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #10
+# APIHour #11
 
-#### ~~Summer~~ Autumn Edition
 
-### 10/07/2014 • Délirium Café CF
+
+### 15/10/2014 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -190,43 +190,40 @@ La 42ème conso tu prendras !
 ---
 # Merci !
 
-### Dominique et l'équipe du Délirium Café CF
+### James et l'équipe du Celtill
 
-<img src="images/logo_del.png" alt="Logo delirium">
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-SQL Server 2014, introduction sur les possibilités de disponibilité et de réplication des données
-#### Eric Blanchard
+Titanium
+#### Olivier Goyon
 
-La programmation evénementielle au service de la modularité
-#### Etienne Roudeix
+The Twelve-Factor App
+#### Aymeric Brisse
 
-Retour de Devoxx France 2014
-#### Daniel Petisme
+Hoa\Compiler: Write Your Own SQL Parser
+#### Kévin Gomez
 
-React PHP
-#### Vincent Vermersch
+Bioinformatics in 10 minutes
+#### Julien Maupetit
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour10**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour11**
 
-* Envoyez **apihour10** suivi de votre message au **31 035**
+* Envoyez **apihour11** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour10** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour11** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
 <img src="images/sponsors/wisembly.png" alt="Wisembly" />
 
 ----
-# APIHour #11
+# APIHour #12
 
-<img src="images/misc/jon-snow.gif" alt="Jon Snow">
-
-<img src="images/icon_14383.svg" alt="where?">
+<img src="images/misc/perry_xmas.jpg" alt="Xmas">
