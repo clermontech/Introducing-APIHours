@@ -1,8 +1,8 @@
 <!--
 Titre : Introducing APIHours
-Date : 10/07/2014
-Événement : APIHour #10
-Auteur : Julien Maupetit
+Date : 15/10/2014
+Événement : APIHour #11
+Auteur : Julien Maupetit / Manuel Raynaud
 -->
 
 ##### Clermont'ech fait son
@@ -223,7 +223,19 @@ Bioinformatics in 10 minutes
 
 <img src="images/sponsors/wisembly.png" alt="Wisembly" />
 
+<!-- ---------- Section ---------- -->
 ----
 # APIHour #12
 
 <img src="images/misc/perry_xmas.jpg" alt="Xmas">
+
+<!-- ---------- Section ---------- -->
+----
+# Workshop #1 GIT
+
+<img src="images/icon_64552.svg" alt="Workshop" width="200px" class="icon"/>
+
+
+### 15/11/2014 • Pascalis
+
+[http://clermontech.org/workshops/workshop-1-git.html](http://clermontech.org/workshops/workshop-1-git.html)
