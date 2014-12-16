@@ -190,6 +190,13 @@ La 42ème conso tu prendras !
 <img src="images/bbt.jpg" alt="BBT">
 
 ---
+## Planet!
+
+![Clermont'ech Aplat](images/clermontech_aplat_500px.png)
+
+[planet.clermontech.org](http://planet.clermontech.org/)
+
+---
 # Merci !
 
 ### T. Colombet (Eefficiency)
