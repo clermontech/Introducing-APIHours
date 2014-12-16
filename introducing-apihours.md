@@ -21,7 +21,7 @@ Auteur : Julien Maupetit / Manuel Raynaud
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech</div>
+<div class="ssid">clermontech2</div>
 
 ----
 <!-- ---------- Section ---------- -->
