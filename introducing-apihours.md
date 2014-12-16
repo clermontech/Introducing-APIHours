@@ -210,6 +210,25 @@ La 42ème conso tu prendras !
 
 ### T. Colombet (Eefficiency)
 
+<!-- ---------- Section ---------- -->
+----
+
+# One more thing...
+
+---
+
+<img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne" width="250px">
+
+<blockquote class="twitter-tweet" lang="en"><p>Something big is coming in middle earth. <a href="https://twitter.com/hashtag/djangocong?src=hash">#djangocong</a></p>&mdash; Djang&#39;Auvergne (@DjangAuvergne) <a href="https://twitter.com/DjangAuvergne/status/538299649707487233">November 28, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+# \#djangocong
+## 8-10 Mai 2015 
+### Clermont-Ferrand
+
+<img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne" width="150px">
 
 <!-- ---------- Section ---------- -->
 ----
