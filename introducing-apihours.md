@@ -90,13 +90,6 @@ Proposez nous un talk !
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
 
----
-## Be famous!
-
-<img src="images/madmatah_apihour_2.jpg" alt="Happy speaker" />
-
-[@madmatah](https://twitter.com/madmatah) +300 vues sur YouTube en moins de 48h
-
 <!-- ---------- Section ---------- -->
 ----
 # Sponsors!
@@ -152,6 +145,21 @@ Proposez nous un talk !
 </table>
 
 ---
+## ♥ Nouveau sponsor ♥
+
+![LIopen sponsor Clermont'ech](images/sponsors/logo_liopen_500px.png)
+
+[www.liopen.fr](http://www.liopen.fr)
+
+---
+## Pour cet APIHour
+### ♥ ♥ ♥
+
+![MailJet sponsors Clermont'ech](images/sponsors/mailjet.png)
+
+[fr.mailjet.com](http://fr.mailjet.com)
+
+---
 ### Boutique spreadshirt
 
 [http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
@@ -167,8 +175,9 @@ Proposez nous un talk !
 
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
 
-<img src="images/SuperPlatypus.png" alt="super platypus">
-<img src="images/plasciipus.png" alt="plasciipus">
+<img src="images/SuperPlatypus.png" alt="super platypus" width="30%">
+<img src="images/platypus-ah12.jpg" alt="platypus apihour 12" width="30%">
+<img src="images/plasciipus.png" alt="plasciipus" width="30%">
 
 ---
 # APIHour contest
