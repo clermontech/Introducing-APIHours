@@ -1,16 +1,16 @@
 <!--
 Titre : Introducing APIHours
-Date : 15/10/2014
-Événement : APIHour #11
-Auteur : Julien Maupetit / Manuel Raynaud
+Date : 16/12/2014
+Événement : APIHour #12
+Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #11
+# APIHour #12
+### Xmas Edition
 
 
-
-### 15/10/2014 • Celtill
+### 16/12/2014 • Eefficiency
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -21,7 +21,7 @@ Auteur : Julien Maupetit / Manuel Raynaud
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech2</div>
+<div class="ssid">clermontech</div>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -141,7 +141,9 @@ Proposez nous un talk !
         <td>
             <img src="images/sponsors/ibiseness.png" alt="i-Biseness Sponsor" width="120px"/>
         </td>
-        <td></td>
+        <td>
+            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
+        </td>
         <td>
             <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
         </td>
@@ -190,34 +192,34 @@ La 42ème conso tu prendras !
 ---
 # Merci !
 
-### James et l'équipe du Celtill
+### T. Colombet (Eefficiency)
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Titanium
-#### Olivier Goyon
+Le Bon Stop
+#### David Valéry
 
-The Twelve-Factor App
-#### Aymeric Brisse
+Sigfox Le Champion Français Des Objets Connectés
+#### Paul Pinault
 
-Hoa\Compiler: Write Your Own SQL Parser
-#### Kévin Gomez
+La PSSI De La Nation
+#### Vincent Mazenod
 
-Bioinformatics in 10 minutes
-#### Julien Maupetit
+Docker, Ceci N'Est Pas Une Introduction
+#### William Durand
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour11**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour12**
 
-* Envoyez **apihour11** suivi de votre message au **31 035**
+* Envoyez **apihour12** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour11** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour12** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -225,17 +227,8 @@ Bioinformatics in 10 minutes
 
 <!-- ---------- Section ---------- -->
 ----
-# APIHour #12
+# APIHour #13
 
-<img src="images/misc/perry_xmas.jpg" alt="Xmas">
+## Birthday Edition
 
-<!-- ---------- Section ---------- -->
-----
-# Workshop #1 GIT
-
-<img src="images/icon_64552.svg" alt="Workshop" width="200px" class="icon"/>
-
-
-### 15/11/2014 • Pascalis
-
-[http://clermontech.org/workshops/workshop-1-git.html](http://clermontech.org/workshops/workshop-1-git.html)
+<img src="images/misc/platybus_dance.gif" alt="Birthday">
