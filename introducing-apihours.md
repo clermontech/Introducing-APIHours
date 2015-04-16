@@ -1,16 +1,16 @@
 <!--
 Titre : Introducing APIHours
-Date : 16/12/2014
-Événement : APIHour #12
+Date : 16/14/2015
+Événement : APIHour #14
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #12
-### Xmas Edition
+# APIHour #14
+### Freestyle Edition
 
 
-### 16/12/2014 • Eefficiency
+### 16/04/2015 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -21,7 +21,7 @@ Auteur : Julien Maupetit
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech</div>
+<div class="ssid">clermontech(2)</div>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -113,6 +113,19 @@ Proposez nous un talk !
         </td>
     </tr>
     <tr>
+        <td></td>
+        <td>
+            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
+        </td>
+        <td>
+            <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px">
+        </td>
+        <td>
+            <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
+        </td>
+        <td></td>
+    </tr>
+    <tr>
         <td>
             <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
         </td>
@@ -129,65 +142,24 @@ Proposez nous un talk !
             <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" width="120px" />
         </td>
     </tr>
-    <tr>
-        <td></td>
-        <td>
-            <img src="images/sponsors/ibiseness.png" alt="i-Biseness Sponsor" width="120px"/>
-        </td>
-        <td>
-            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
-        </td>
-        <td>
-            <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
-        </td>
-        <td></td>
-    </tr>
 </table>
-
----
-## ♥ Nouveau sponsor ♥
-
-![LIopen sponsor Clermont'ech](images/sponsors/logo_liopen_500px.png)
-
-[www.liopen.fr](http://www.liopen.fr)
 
 ---
 ## Pour cet APIHour
 ### ♥ ♥ ♥
 
-![MailJet sponsors Clermont'ech](images/sponsors/mailjet.png)
+![Heuritech sponsors Clermont'ech](images/sponsors/heuritech.png)
 
-[fr.mailjet.com](http://fr.mailjet.com)
-
----
-### Boutique spreadshirt
-
-[http://clermontech.spreadshirt.fr](http://clermontech.spreadshirt.fr)
-
-### Boutique stickermule
-
-[http://www.stickermule.com/user/1070074800/stickers](http://www.stickermule.com/user/1070074800/stickers)
-
-<img src="images/the-la-baleine-sticker.png" alt="Stickermule Clermontech Baleine Sticker">
+[http://heuritech.com](http://heuritech.com)
 
 ---
 # Platydex
 
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
 
-<img src="images/SuperPlatypus.png" alt="super platypus" width="30%">
-<img src="images/platypus-ah12.jpg" alt="platypus apihour 12" width="30%">
-<img src="images/plasciipus.png" alt="plasciipus" width="30%">
-
----
-# APIHour contest
-### T-Shirt
-
-La 42ème conso tu prendras !
-
-# 42
-## 42
-### 42
+<img src="images/platypus-mario.png" alt="platypus mario" width="30%">
+<img src="images/platypus-marilyn.png" alt="platypus marilyn" width="30%">
+<img src="images/platypus-tux.png" alt="platypus tux" width="30%">
 
 ---
 ## Microcosme Clermontois
@@ -208,19 +180,20 @@ La 42ème conso tu prendras !
 ---
 # Merci !
 
-### T. Colombet (Eefficiency)
+### Mairie Clermont-Ferrand
+
+<img src="images/sponsors/logo-clermont.png" alt="Logo Ville Clermont-Ferrand">
 
 <!-- ---------- Section ---------- -->
 ----
 
-# One more thing...
+# Coming next.
 
 ---
 
-<img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne" width="250px">
-
-<blockquote class="twitter-tweet" lang="en"><p>Something big is coming in middle earth. <a href="https://twitter.com/hashtag/djangocong?src=hash">#djangocong</a></p>&mdash; Djang&#39;Auvergne (@DjangAuvergne) <a href="https://twitter.com/DjangAuvergne/status/538299649707487233">November 28, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+# Code & Coffee
+## 25 avril 2015 
+### salon de thé/café Kissaten
 
 ---
 
@@ -230,40 +203,45 @@ La 42ème conso tu prendras !
 
 <img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne" width="150px">
 
+[http://rencontres.django-fr.org/2015/](http://rencontres.django-fr.org/2015/)
+
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Le Bon Stop
-#### David Valéry
+Web Sémantique
+#### Cédric Klein
 
-Sigfox Le Champion Français Des Objets Connectés
-#### Paul Pinault
+OpenStack
+#### Frédéric Gaudet
 
-La PSSI De La Nation
-#### Vincent Mazenod
+AuvernIX, Je Suis Ton Peer
+#### Denis Fondras
 
-Docker, Ceci N'Est Pas Une Introduction
-#### William Durand
+Le Machine Learning En Entreprise : <br>
+Retour d'Expérience
+#### Tony Pinville
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour12**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour14**
 
-* Envoyez **apihour12** suivi de votre message au **31 035**
+* Envoyez **apihour14** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour12** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour14** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
+
+* Participez aussi Tam Tam ou Tatoo en appelant le `16 (1) + 42 25 00 01`
 
 <img src="images/sponsors/wisembly.png" alt="Wisembly" />
 
 <!-- ---------- Section ---------- -->
 ----
-# APIHour #13
+# APIHour #15
 
-## Birthday Edition
+## Summer edition
 
-<img src="images/misc/platybus_dance.gif" alt="Birthday">
+![Stark Meme](images/stark-meme.jpg)
