@@ -1,16 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 16/14/2015
-Événement : APIHour #14
+Date : 10/06/2015
+Événement : APIHour #15
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #14
-### Freestyle Edition
+# APIHour #15
+### (Presque) Summer Edition
 
-
-### 16/04/2015 • Centre Jean Richepin
+#### 10/06/2015 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -84,7 +83,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-Proposez nous un talk !
+Proposez-nous un talk !
 
 <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a>
 
@@ -145,14 +144,6 @@ Proposez nous un talk !
 </table>
 
 ---
-## Pour cet APIHour
-### ♥ ♥ ♥
-
-![Heuritech sponsors Clermont'ech](images/sponsors/heuritech.png)
-
-[http://heuritech.com](http://heuritech.com)
-
----
 # Platydex
 
 [http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
@@ -164,9 +155,11 @@ Proposez nous un talk !
 ---
 ## Microcosme Clermontois
 
-### [@LavaJUG](https://twitter.com/LavaJUG)
+#### [@LavaJUG](https://twitter.com/LavaJUG)
 
-### [@ClermontJS](https://twitter.com/ClermontJS)
+#### [@ClermontJS](https://twitter.com/ClermontJS)
+
+#### [@Clermontrb](https://twitter.com/clermontrb)
 
 <img src="images/bbt.jpg" alt="BBT">
 
@@ -180,9 +173,7 @@ Proposez nous un talk !
 ---
 # Merci !
 
-### Mairie Clermont-Ferrand
-
-<img src="images/sponsors/logo-clermont.png" alt="Logo Ville Clermont-Ferrand">
+### James et l'équipe du Celtill
 
 <!-- ---------- Section ---------- -->
 ----
@@ -192,45 +183,34 @@ Proposez nous un talk !
 ---
 
 # Code & Coffee
-## 25 avril 2015 
-### salon de thé/café Kissaten
-
----
-
-# \#djangocong
-## 8-10 Mai 2015 
-### Clermont-Ferrand
-
-<img src="images/logo_djangauvergne.png" alt="Logo DjangAuvergne" width="150px">
-
-[http://rencontres.django-fr.org/2015/](http://rencontres.django-fr.org/2015/)
+## 13 juin 2015 (c'est samedi !)
+### Salon de thé/café Kissaten
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Web Sémantique
-#### Cédric Klein
+Living Style Guide : La Boîte à Outils De Votre Projet Web
+#### Hans Lemuet
 
-OpenStack
-#### Frédéric Gaudet
+ReactOS: Infrastructure Security Breach
+#### Pierre Schweitzer
 
-AuvernIX, Je Suis Ton Peer
-#### Denis Fondras
+ASAIM : Traitement "Big Data" En Biologie
+#### Bérénice Batut
 
-Le Machine Learning En Entreprise : <br>
-Retour d'Expérience
-#### Tony Pinville
+Comment Dresser Une Baleine
+#### Vincent Vermersch
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour14**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour15**
 
-* Envoyez **apihour14** suivi de votre message au **31 035**
+* Envoyez **apihour15** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour14** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour15** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -240,8 +220,6 @@ Retour d'Expérience
 
 <!-- ---------- Section ---------- -->
 ----
-# APIHour #15
+# APIHour #16
 
-## Summer edition
-
-![Stark Meme](images/stark-meme.jpg)
+## 17 septembre 2015
