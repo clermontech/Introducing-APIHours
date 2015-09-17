@@ -1,15 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 10/06/2015
-Événement : APIHour #15
+Date : 17/09/2015
+Événement : APIHour #16
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #15
-### (Presque) Summer Edition
+# APIHour #16
+### Keep calm, we're back
 
-#### 10/06/2015 • Le Celtill
+#### 17/09/2015 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -173,44 +173,33 @@ Proposez-nous un talk !
 ---
 # Merci !
 
-### James et l'équipe du Celtill
-
-<!-- ---------- Section ---------- -->
-----
-
-# Coming next.
-
----
-
-# Code & Coffee
-## 13 juin 2015 (c'est samedi !)
-### Salon de thé/café Kissaten
+### La mairie de Clermont-Ferrand
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Living Style Guide : La Boîte à Outils De Votre Projet Web
-#### Hans Lemuet
+Les Nouveautés d'Android 6 Marshmallow
+#### Guillaume Imbert
 
-ReactOS: Infrastructure Security Breach
-#### Pierre Schweitzer
+Confiance sur Internet
+#### Romain Tartière
 
-ASAIM : Traitement "Big Data" En Biologie
-#### Bérénice Batut
+Capistrano 3 : Le déploiement "Finger in the nose"
+#### Claude Dioudonnat
 
-Comment Dresser Une Baleine
-#### Vincent Vermersch
+Let's open science & research data. Now.
+#### Julien Maupetit
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour15**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour16**
 
-* Envoyez **apihour15** suivi de votre message au **31 035**
+* Envoyez **apihour16** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour15** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour16** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -220,6 +209,6 @@ Comment Dresser Une Baleine
 
 <!-- ---------- Section ---------- -->
 ----
-# APIHour #16
+# APIHour #17
 
-## 17 septembre 2015
+<img src="images/jon-snow-winter.gif" alt="Jon Snow - Winter is coming" width="800px">
