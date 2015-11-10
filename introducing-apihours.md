@@ -1,15 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 17/09/2015
-Événement : APIHour #16
+Date : 10/11/2015
+Événement : APIHour #17
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #16
-### Keep calm, we're back
+# APIHour #17
+### Back to the roots
 
-#### 17/09/2015 • Centre Jean Richepin
+#### 10/11/2015 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -112,9 +112,11 @@ Proposez-nous un talk !
         </td>
     </tr>
     <tr>
-        <td></td>
         <td>
             <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
+        </td>
+        <td colspan="2">
+            <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px">
         </td>
         <td>
             <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px">
@@ -122,7 +124,6 @@ Proposez-nous un talk !
         <td>
             <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
         </td>
-        <td></td>
     </tr>
     <tr>
         <td>
@@ -155,11 +156,7 @@ Proposez-nous un talk !
 ---
 ## Microcosme Clermontois
 
-#### [@LavaJUG](https://twitter.com/LavaJUG)
-
-#### [@ClermontJS](https://twitter.com/ClermontJS)
-
-#### [@Clermontrb](https://twitter.com/clermontrb)
+[@LavaJUG](https://twitter.com/LavaJUG) // [@ClermontJS](https://twitter.com/ClermontJS) // [@Clermontrb](https://twitter.com/clermontrb)
 
 <img src="images/bbt.jpg" alt="BBT">
 
@@ -173,33 +170,33 @@ Proposez-nous un talk !
 ---
 # Merci !
 
-### La mairie de Clermont-Ferrand
+### James & l'équipe du Celtill 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Les Nouveautés d'Android 6 Marshmallow
-#### Guillaume Imbert
+La Sécurité Numérique Et Vous ?
+#### Pascal Lafourcade
 
-Confiance sur Internet
-#### Romain Tartière
+Surfer C'est Bien, Nager C'est Mieux
+#### Karim Bogtob
 
-Capistrano 3 : Le déploiement "Finger in the nose"
-#### Claude Dioudonnat
+ROS (Robot Operating System)
+#### Noel Martignoni
 
-Let's open science & research data. Now.
-#### Julien Maupetit
+Retour Sur Notre Futur ? (De Dev Mobile)
+#### Thomas Bailly
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour16**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour17**
 
-* Envoyez **apihour16** suivi de votre message au **31 035**
+* Envoyez **apihour17** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour16** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour17** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -209,6 +206,8 @@ Let's open science & research data. Now.
 
 <!-- ---------- Section ---------- -->
 ----
-# APIHour #17
+## APIHour #18
 
-<img src="images/jon-snow-winter.gif" alt="Jon Snow - Winter is coming" width="800px">
+### Birthday edition?
+
+<img src="images/birthday-bob.gif" alt="Birthday bob">
