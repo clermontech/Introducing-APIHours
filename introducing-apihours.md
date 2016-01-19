@@ -164,33 +164,33 @@ Proposez-nous un talk !
 ---
 # Merci !
 
-### James & l'équipe du Celtill 
+### Mairie de Clermont-Ferrand
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-La Sécurité Numérique Et Vous ?
-#### Pascal Lafourcade
+Mythes et Réalités du Télétravail
+#### Pierre Tachoire
 
-Surfer C'est Bien, Nager C'est Mieux
-#### Karim Bogtob
+Traitement d'images Flot de Données sur FPGA
+#### Sébastien Caux
 
-ROS (Robot Operating System)
-#### Noel Martignoni
+Applications Payantes sur le PlayStore
+#### Julien Millau
 
-Retour Sur Notre Futur ? (De Dev Mobile)
-#### Thomas Bailly
+Introduction à LoRa
+#### Paul Pinault
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour17**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour18**
 
-* Envoyez **apihour17** suivi de votre message au **31 035**
+* Envoyez **apihour18** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour17** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour18** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -200,8 +200,10 @@ Retour Sur Notre Futur ? (De Dev Mobile)
 
 <!-- ---------- Section ---------- -->
 ----
-## APIHour #18
+## APIHour #19
 
-### Birthday edition?
+### Birthday edition
+
+1er Mars 2016
 
 <img src="images/birthday-bob.gif" alt="Birthday bob">
