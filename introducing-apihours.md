@@ -1,15 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 10/11/2015
-Événement : APIHour #17
+Date : 19/12/2016
+Événement : APIHour #18
 Auteur : Julien Maupetit
 -->
 
 ##### Clermont'ech fait son
-# APIHour #17
-### Back to the roots
+# APIHour #18
+### Yolo Edition<sup>2</sup>
 
-#### 10/11/2015 • Le Celtill
+#### 19/12/2016 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -98,28 +98,8 @@ Proposez-nous un talk !
         <td>
             <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
         </td>
-        <td>
-            <img src="images/sponsors/openstudio.png" alt="OpenStudio Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/comsource.jpg" alt="`ComSource Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/overscan.png" alt="`Overscan Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
-        </td>
-        <td colspan="2">
-            <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px">
-        </td>
-        <td>
-            <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px">
+        <td colspan="3">
+            <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
         </td>
         <td>
             <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
@@ -127,19 +107,33 @@ Proposez-nous un talk !
     </tr>
     <tr>
         <td>
+            <img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
+        </td>
+        <td>
+            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
+        </td>
+        <td>
+            <img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
+        </td>
+        <td>
+            <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
+        </td>
+        <td>
+            <img src="images/sponsors/overscan.png" alt="Overscan Sponsor" width="120px" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+        </td>
+        <td colspan="2">
             <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
         </td>
         <td>
             <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/iut.png" alt="IUT Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/manning.jpg" alt="Manning Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/oreilly.gif" alt="Oreilly Sponsor" width="120px" />
+            <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
         </td>
     </tr>
 </table>
