@@ -187,3 +187,10 @@ body {
   font-size: 0.5em; }
   .reveal section .credit a {
     vertical-align: baseline; }
+
+
+.inverted h2 {
+    background-color: rgba(0,0,0,0.3);
+    color: #fff;
+    padding: 0.4em;
+}
