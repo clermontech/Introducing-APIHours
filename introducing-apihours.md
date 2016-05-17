@@ -1,15 +1,13 @@
 <!--
 Titre : Introducing APIHours
 Date : 19/12/2016
-Événement : APIHour #18
-Auteur : Julien Maupetit
+Événement : APIHour #20
 -->
 
 ##### Clermont'ech fait son
-# APIHour #18
-### Yolo Edition<sup>2</sup>
+# APIHour #20
 
-#### 19/12/2016 • Centre Jean Richepin
+#### 17/05/2016 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -94,48 +92,48 @@ Proposez-nous un talk !
 # Sponsors!
 
 <table>
-    <tr>
-        <td>
-            <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
-        </td>
-        <td colspan="3">
-            <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
-        </td>
-        <td>
-            <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
-        </td>
-        <td>
-            <img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
-        </td>
-        <td>
-            <img src="images/sponsors/overscan.png" alt="Overscan Sponsor" width="120px" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
-        </td>
-        <td colspan="2">
-            <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
-        </td>
-        <td>
-            <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
-        </td>
-    </tr>
+	<tr>
+	<td>
+	<img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
+	</td>
+	<td colspan="3">
+	<img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
+	</td>
+	<td>
+	<img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
+	</td>
+	<td>
+	<img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
+	</td>
+	<td>
+	<img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
+	</td>
+	<td>
+	<img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
+	</td>
+	<td>
+	<img src="images/sponsors/overscan.png" alt="Overscan Sponsor" width="120px" />
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+	</td>
+	<td colspan="2">
+	<img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
+	</td>
+	<td>
+	<img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
+	</td>
+	<td>
+	<img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
+	</td>
+	</tr>
 </table>
 
 ---
@@ -164,33 +162,33 @@ Proposez-nous un talk !
 ---
 # Merci !
 
-### Mairie de Clermont-Ferrand
+### James & l'équipe du Celtill
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Mythes et Réalités du Télétravail
-#### Pierre Tachoire
+Webpack pour les Humains
+#### Loic Bourg
 
-Traitement d'images Flot de Données sur FPGA
-#### Sébastien Caux
+Bitcoin, comment ça marche ?
+#### Pascal Lafourcade
 
-Applications Payantes sur le PlayStore
-#### Julien Millau
+Le Customer Success Management au centre du modèle SaaS
+#### Simon Daspe
 
-Introduction à LoRa
-#### Paul Pinault
+Distributed Peta-Scale Data Analysis Software at IN2P3
+#### Fabrice Jammes
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour18**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour20**
 
-* Envoyez **apihour18** suivi de votre message au **31 035**
+* Envoyez **apihour20** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour18** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour20** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -200,10 +198,6 @@ Introduction à LoRa
 
 <!-- ---------- Section ---------- -->
 ----
-## APIHour #19
+## APIHour #21
 
-### Birthday edition
-
-1er Mars 2016
-
-<img src="images/birthday-bob.gif" alt="Birthday bob">
+Avant l'été !
