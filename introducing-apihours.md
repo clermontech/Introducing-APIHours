@@ -173,11 +173,12 @@ Proposez-nous un talk !
 Retour sur l’amélioration de la pertinence sur Elasticsearch
 #### Adrien Gallou
 
+La blockchain sans crypto ni bitcoin
+#### Paul Pinault
+
 Drupalgeddon
 #### Vincent Mazenod
 
-La blockchain sans crypto ni bitcoin
-#### Paul Pinault
 
 <!-- ---------- Section ---------- -->
 ----
