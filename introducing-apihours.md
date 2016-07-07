@@ -5,9 +5,9 @@ Date : 19/12/2016
 -->
 
 ##### Clermont'ech fait son
-# APIHour #20
+# APIHour #21
 
-#### 17/05/2016 • Le Celtill
+#### 07/07/2016 • Espace Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks
+* ~~4 talks~~ 3 talks aujourd'hui
 * 1h max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -107,11 +107,8 @@ Proposez-nous un talk !
 	<td>
 	<img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
 	</td>
-	<td>
-	<img src="images/sponsors/liopen.png" alt="liopen Sponsor" width="120px">
-	</td>
-	<td>
-	<img src="images/sponsors/itn.png" alt="ITN Sponsor" width="120px" />
+	<td colspan="2">
+	<img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="120px" />
 	</td>
 	<td>
 	<img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
@@ -135,6 +132,11 @@ Proposez-nous un talk !
 	</td>
 	</tr>
 </table>
+
+---
+## Domraider
+
+<img src="images/sponsors/domraider.png" alt="Domraider Sponsor" />
 
 ---
 # Platydex
@@ -162,33 +164,30 @@ Proposez-nous un talk !
 ---
 # Merci !
 
-### James & l'équipe du Celtill
+### La mairie
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Webpack pour les Humains
-#### Loic Bourg
+Retour sur l’amélioration de la pertinence sur Elasticsearch
+#### Adrien Gallou
 
-Bitcoin, comment ça marche ?
-#### Pascal Lafourcade
+Drupalgeddon
+#### Vincent Mazenod
 
-Le Customer Success Management au centre du modèle SaaS
-#### Simon Daspe
-
-Distributed Peta-Scale Data Analysis Software at IN2P3
-#### Fabrice Jammes
+La blockchain sans crypto ni bitcoin
+#### Paul Pinault
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour20**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour21**
 
-* Envoyez **apihour20** suivi de votre message au **31 035**
+* Envoyez **apihour21** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour20** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour21** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -200,4 +199,4 @@ Distributed Peta-Scale Data Analysis Software at IN2P3
 ----
 ## APIHour #21
 
-Avant l'été !
+Summer edition
