@@ -197,6 +197,6 @@ La blockchain sans crypto ni bitcoin
 
 <!-- ---------- Section ---------- -->
 ----
-## APIHour #21
+## APIHour #22
 
-Summer edition
+À la rentrée ?  Bonnes vacances !
