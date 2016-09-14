@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 19/12/2016
-Événement : APIHour #20
+Date : 15/09/2016
+Événement : APIHour #22
 -->
 
 ##### Clermont'ech fait son
-# APIHour #21
+# APIHour #22
 
-#### 07/07/2016 • Espace Jean Richepin
+#### 15/09/2016 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -65,18 +65,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 * Lieu et jour variables
 * Vidéos en ligne
 * Fréquence : 6/8 semaines
+* Happy Hour !
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
-
----
-## #APIHour
-... is the new Happy Hour
-
-<img src="images/noun_project_12254.svg" alt="Share" width="200px" class="icon"/>
-
-<div class="credit">
-    Crédit : <a href="http://thenounproject.com/noun/beer/#icon-No12254" target="_blank">Beer</a> designed by <a href="http://thenounproject.com/jacob" target="_blank">Jacob Halton</a> from The Noun Project
-</div>
 
 ---
 ## #APIHour
@@ -86,6 +77,14 @@ Proposez-nous un talk !
 <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a>
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
+
+---
+
+## Questionnaire
+
+![Questionnaire APIHour](images/survey.jpg)
+
+[https://clermontech.typeform.com/to/tOv7KJ](https://clermontech.typeform.com/to/tOv7KJ)
 
 <!-- ---------- Section ---------- -->
 ----
@@ -138,57 +137,72 @@ Proposez-nous un talk !
 
 <img src="images/sponsors/domraider.png" alt="Domraider Sponsor" />
 
----
-# Platydex
-
-[http://github.com/clermontech/platydex](https://github.com/clermontech/platydex)
-
-<img src="images/platypus-mario.png" alt="platypus mario" width="30%">
-<img src="images/platypus-marilyn.png" alt="platypus marilyn" width="30%">
-<img src="images/platypus-tux.png" alt="platypus tux" width="30%">
 
 ---
-## Microcosme Clermontois
-
-[@LavaJUG](https://twitter.com/LavaJUG) // [@ClermontJS](https://twitter.com/ClermontJS) // [@Clermontrb](https://twitter.com/clermontrb)
-
-<img src="images/bbt.jpg" alt="BBT">
+<table>
+	<tr>
+	<td>
+        <h3>Planet</h3>
+	</td>
+	<td>
+        <h3>Platydex</h3>
+	</td>
+	</tr>
+	<tr>
+	<td>
+        <img src="images/clermontech_aplat_500px.png" alt="planet logo" width="200px">
+	</td>
+	<td>
+        <img src="images/platypus-marilyn.png" alt="platypus marilyn" width="200px">
+	</td>
+	</tr>
+	<tr>
+	<td>
+        [planet.clermontech.org](http://planet.clermontech.org/)
+	</td>
+	<td>
+        [github.com/clermontech/platydex](https://github.com/clermontech/platydex)
+	</td>
+	</tr>
+</table>
 
 ---
-## Planet!
+### Microcosme Clermontois
 
-![Clermont'ech Aplat](images/clermontech_aplat_500px.png)
+# Sigfox maker tour
 
-[planet.clermontech.org](http://planet.clermontech.org/)
+6 Octobre / Le Bivouac
+
+[makers.sigfox.com/tour/register/](http://makers.sigfox.com/tour/register/)
 
 ---
 # Merci !
 
-### La mairie
+### James
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Retour sur l’amélioration de la pertinence sur Elasticsearch
-#### Adrien Gallou
+Adopte une BDD <small>(30 min)</small>
+#### Aymeric Brisse
 
-La blockchain sans crypto ni bitcoin
-#### Paul Pinault
+rethinkDB
+#### Etienne Roudeix
 
-Drupalgeddon
-#### Vincent Mazenod
+Redis
+#### Claude Dioudonnat
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour21**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour22**
 
-* Envoyez **apihour21** suivi de votre message au **31 035**
+* Envoyez **apihour22** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour21** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour22** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
@@ -198,6 +212,6 @@ Drupalgeddon
 
 <!-- ---------- Section ---------- -->
 ----
-## APIHour #22
+## APIHour #23
 
-À la rentrée ?  Bonnes vacances !
+// TODO
