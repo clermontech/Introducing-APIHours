@@ -84,7 +84,7 @@ Proposez-nous un talk !
 
 ![Questionnaire APIHour](images/survey.jpg)
 
-[https://clermontech.typeform.com/to/tOv7KJ](https://clermontech.typeform.com/to/tOv7KJ)
+[http://survey.clermontech.org/](http://survey.clermontech.org/)
 
 <!-- ---------- Section ---------- -->
 ----
