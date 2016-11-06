@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 15/09/2016
-Événement : APIHour #22
+Date : 07/11/2016
+Événement : APIHour #23
 -->
 
 ##### Clermont'ech fait son
-# APIHour #22
+# APIHour #23
 
-#### 15/09/2016 • Le Celtill
+#### 07/11/2016 • IUT Informatique
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,9 +59,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* ~~4 talks~~ 3 talks aujourd'hui
-* 1h max.
-* 50 personnes max.
+* 4 talks
+* 1h30 max.
+* 50 personnes max (mais pas ce soir).
 * Lieu et jour variables
 * Vidéos en ligne
 * Fréquence : 6/8 semaines
@@ -76,15 +76,17 @@ Proposez-nous un talk !
 
 <a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a>
 
+<a href="http://clermontech.org/api-hours/wishlist.html">Wishlist</a>
+
+Mentoring !
+
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
 
 ---
 
 ## Questionnaire
 
-![Questionnaire APIHour](images/survey.jpg)
-
-[http://survey.clermontech.org/](http://survey.clermontech.org/)
+<a href="http://clermontech.org/blog-posts/resultat-questionnaire-api-hours.html">Compte-rendu sur le site !</a>
 
 <!-- ---------- Section ---------- -->
 ----
@@ -112,9 +114,6 @@ Proposez-nous un talk !
 	<td>
 	<img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
 	</td>
-	<td>
-	<img src="images/sponsors/overscan.png" alt="Overscan Sponsor" width="120px" />
-	</td>
 	</tr>
 	<tr>
 	<td>
@@ -131,11 +130,6 @@ Proposez-nous un talk !
 	</td>
 	</tr>
 </table>
-
----
-## Domraider
-
-<img src="images/sponsors/domraider.png" alt="Domraider Sponsor" />
 
 
 ---
@@ -166,52 +160,41 @@ Proposez-nous un talk !
 	</tr>
 </table>
 
----
-### Microcosme Clermontois
-
-# Sigfox maker tour
-
-6 Octobre / Le Bivouac
-
-[makers.sigfox.com/tour/register/](http://makers.sigfox.com/tour/register/)
 
 ---
 # Merci !
 
-### James
+### IUT Informatique
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Adopte une BDD <small>(30 min)</small>
-#### Aymeric Brisse
+Manipuler des images médicales: de l’IRM à l’écran
+#### Jean-Marie Favreau
 
-rethinkDB
-#### Etienne Roudeix
+Initiation au numérique chez les petits débrouillards
+#### Aude Nieto
 
-Redis
-#### Claude Dioudonnat
+Nouveautés de PHP 7.1
+#### Kevin Gautreau
+
+Dialoguer avec une API dans une application React/redux
+#### Julien Muetton
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour22**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour23**
 
-* Envoyez **apihour22** suivi de votre message au **31 035**
+* Envoyez **apihour23** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour22** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour23** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
 * Participez aussi Tam Tam ou Tatoo en appelant le `16 (1) + 42 25 00 01`
 
 <img src="images/sponsors/wisembly.png" alt="Wisembly" />
-
-<!-- ---------- Section ---------- -->
-----
-## APIHour #23
-
-// TODO
