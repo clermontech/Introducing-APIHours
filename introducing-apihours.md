@@ -160,6 +160,12 @@ Mentoring !
 	</tr>
 </table>
 
+---
+### Microcosme Clermontois
+
+## Lavajug
+
+"Container VS Virtual Machine" Lundi 14 Novembre
 
 ---
 # Merci !
