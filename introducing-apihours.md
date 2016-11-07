@@ -7,7 +7,7 @@ Date : 07/11/2016
 ##### Clermont'ech fait son
 # APIHour #23
 
-#### 07/11/2016 • IUT Informatique
+#### 07/11/2016 • IUT Clermont-Ferrand
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -164,7 +164,7 @@ Mentoring !
 ---
 # Merci !
 
-### IUT Informatique
+### IUT Clermont-Ferrand
 
 <!-- ---------- Section ---------- -->
 ----
