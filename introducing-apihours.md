@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 07/11/2016
-Événement : APIHour #23
+Date : 14/12/2016
+Événement : APIHour #24
 -->
 
 ##### Clermont'ech fait son
-# APIHour #23
+# APIHour #24
 
-#### 07/11/2016 • IUT Clermont-Ferrand
+#### 14/12/2016 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,15 +59,19 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks
+* ~~4 talks~~ 3 talks aujourd'hui
 * 1h30 max.
-* 50 personnes max (mais pas ce soir).
+* 50 personnes max.
 * Lieu et jour variables
 * Vidéos en ligne
 * Fréquence : 6/8 semaines
 * Happy Hour !
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
+---
+## Ambassadeur
+
+<img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
 
 ---
 ## #APIHour
@@ -81,12 +85,6 @@ Proposez-nous un talk !
 Mentoring !
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
-
----
-
-## Questionnaire
-
-<a href="http://clermontech.org/blog-posts/resultat-questionnaire-api-hours.html">Compte-rendu sur le site !</a>
 
 <!-- ---------- Section ---------- -->
 ----
@@ -159,45 +157,33 @@ Mentoring !
 	</td>
 	</tr>
 </table>
-
----
-### Microcosme Clermontois
-
-## Lavajug
-
-"Container VS Virtual Machine" Lundi 14 Novembre
-
 ---
 # Merci !
 
-### IUT Clermont-Ferrand
-
+### Mairie de Clermont-Ferrand
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Manipuler des images médicales: de l’IRM à l’écran
-#### Jean-Marie Favreau
+Texturer des objects pour de la 3D temps réel (30 min)
+#### Jérémy Bouny
 
-Initiation au numérique chez les petits débrouillards
-#### Aude Nieto
+Chef
+#### Emeric Darne
 
-Nouveautés de PHP 7.1
-#### Kevin Gautreau
-
-Dialoguer avec une API dans une application React/redux
-#### Julien Muetton
+Angular 2
+#### Quentin Chapelle
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour23**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour24**
 
-* Envoyez **apihour23** suivi de votre message au **31 035**
+* Envoyez **apihour24** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour23** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour24** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
