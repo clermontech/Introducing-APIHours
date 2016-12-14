@@ -74,6 +74,11 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 <img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
 
 ---
+## Dot-Voting
+
+<img src="images/dot-voting.png" alt="DotVoting" width="480px"/>
+
+---
 ## #APIHour
 
 Proposez-nous un talk !
