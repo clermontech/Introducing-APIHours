@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 14/12/2016
-Événement : APIHour #24
+Date : 01/02/2016
+Événement : APIHour #25
 -->
 
 ##### Clermont'ech fait son
-# APIHour #24
+# APIHour #25
 
-#### 14/12/2016 • Centre Jean Richepin
+#### 01/02/2017 • Le Bivouac
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -160,30 +160,30 @@ Mentoring !
 ---
 # Merci !
 
-### Mairie de Clermont-Ferrand
+### Le Bivouac
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Texturer des objects pour de la 3D temps réel (30 min)
-#### Jérémy Bouny
+Puppet / Marionette Collective, d’une altitude de 40 000 pieds et à mach 0.8 (30 min)
+#### Romain Tartière
 
-Chef
-#### Emeric Darne
+Ansible
+#### Camille Hugo
 
-Angular 2
-#### Quentin Chapelle
+Tests (et Test Driven Developement) avec Angular 2
+#### François Suau
 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour24**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour25**
 
-* Envoyez **apihour24** suivi de votre message au **31 035**
+* Envoyez **apihour25** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour24** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour25** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
