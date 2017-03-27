@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 01/02/2016
-Événement : APIHour #25
+Date : 27/03/2017
+Événement : APIHour #26
 -->
 
 ##### Clermont'ech fait son
-# APIHour #25
+# APIHour #26
 
-#### 01/02/2017 • Le Bivouac
+#### 27/03/2017 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -160,30 +160,41 @@ Mentoring !
 ---
 # Merci !
 
-### Le Bivouac
+### Mairie
+
+---
+
+<img src="images/sponsors/logo-wordtype-color.png" />
+
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Puppet / Marionette Collective, d’une altitude de 40 000 pieds et à mach 0.8 (30 min)
-#### Romain Tartière
+The Thing Network - le premier reseau mondial crowd sourced (30 min)
+#### Paul Pinault
 
-Ansible
-#### Camille Hugo
+Internationalisation d’une application React
+#### Jonathan Petitcolas
 
-Tests (et Test Driven Developement) avec Angular 2
-#### François Suau
+Openshift et Kubernetes
+#### Julien Pervillé
 
+<!-- ---------- Section ---------- -->
+----
+
+#API Hour 27
+
+Jeudi 4 mai 2017
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour25**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour26**
 
-* Envoyez **apihour25** suivi de votre message au **31 035**
+* Envoyez **apihour26** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour25** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour26** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
