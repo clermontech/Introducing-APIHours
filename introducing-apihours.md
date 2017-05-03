@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 27/03/2017
-Événement : APIHour #26
+Date : 04/05/2017
+Événement : APIHour #27
 -->
 
 ##### Clermont'ech fait son
-# APIHour #26
+# APIHour #27
 
-#### 27/03/2017 • Centre Jean Richepin
+#### 04/05/2017 • Le Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -88,6 +88,12 @@ Mentoring !
 
 <!-- ---------- Section ---------- -->
 ----
+# Clermont'ech groups
+
+<img src="images/noun_767017_cc.png" alt="clermontech groups" width="480px"/>
+
+<!-- ---------- Section ---------- -->
+----
 # Sponsors!
 
 <table>
@@ -160,41 +166,41 @@ Mentoring !
 ---
 # Merci !
 
-### Mairie
-
----
-
-<img src="images/sponsors/logo-wordtype-color.png" />
+### James et le Celtill
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-The Thing Network - le premier reseau mondial crowd sourced (30 min)
-#### Paul Pinault
+Reactive application and flow base programming (30 min)
+#### Guillaume Vernat
 
-Internationalisation d’une application React
-#### Jonathan Petitcolas
+Allaiter et travailler : retour d’expérience
+#### Agnes Haasser
 
-Openshift et Kubernetes
-#### Julien Pervillé
+La programmation fonctio-quoi ?
+#### Richard Degenne
 
 <!-- ---------- Section ---------- -->
 ----
+#API Hour 28
 
-#API Hour 27
+Mardi 13 juin 2017
 
-Jeudi 4 mai 2017
+---
+#API Hour 29
+
+Vendredi 21 juillet 2017
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour26**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour27**
 
-* Envoyez **apihour26** suivi de votre message au **31 035**
+* Envoyez **apihour27** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour26** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour27** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
