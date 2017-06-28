@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 04/05/2017
-Événement : APIHour #27
+Date : 28/06/2017
+Événement : APIHour #28
 -->
 
 ##### Clermont'ech fait son
-# APIHour #27
+# APIHour #28
 
-#### 04/05/2017 • Le Celtill
+#### 28/06/2017 • Pôle 22 bis
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -166,27 +166,22 @@ Mentoring !
 ---
 # Merci !
 
-### James et le Celtill
+### Pôle 22 bis
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Reactive application and flow base programming (30 min)
-#### Guillaume Vernat
+Machine Learning, sorcellerie ou charlatanisme ? (30 min)
+#### Karim Bogtob
 
-Allaiter et travailler : retour d’expérience
-#### Agnes Haasser
+JWT ou comment faciliter la gestion des sessions utilisateurs
+#### Loic Bourg
 
-La programmation fonctio-quoi ?
-#### Richard Degenne
+WTF le Produit (\*) ? (\* : à quoi sert une équipe produit dans une entreprise ?)
+#### Myriam Goude
 
 <!-- ---------- Section ---------- -->
-----
-#API Hour 28
-
-Mardi 13 juin 2017
-
 ---
 #API Hour 29
 
@@ -196,11 +191,11 @@ Vendredi 21 juillet 2017
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour27**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour28**
 
-* Envoyez **apihour27** suivi de votre message au **31 035**
+* Envoyez **apihour28** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour27** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour28** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
