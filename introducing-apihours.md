@@ -5,9 +5,9 @@ Date : 28/06/2017
 -->
 
 ##### Clermont'ech fait son
-# APIHour #28
+# APIHour #30
 
-#### 28/06/2017 • Pôle 22 bis
+#### 14/09/2017 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -166,36 +166,35 @@ Mentoring !
 ---
 # Merci !
 
-### Pôle 22 bis
+### Mairie
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Machine Learning, sorcellerie ou charlatanisme ? (30 min)
-#### Karim Bogtob
+Des activités d’informatique sans ordinateur pour l’école et le collège (30 min)
+#### Malika More
 
-JWT ou comment faciliter la gestion des sessions utilisateurs
-#### Loic Bourg
+Contributions google street view
+#### Paul Pinault 
 
-WTF le Produit (\*) ? (\* : à quoi sert une équipe produit dans une entreprise ?)
-#### Myriam Goude
+A quoi servent les protocoles délimiteurs de distance
+#### Pascal lafourcade
 
 <!-- ---------- Section ---------- -->
 ---
-#API Hour 29
+#API Hour 30
 
-Vendredi 21 juillet 2017
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour28**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour30**
 
-* Envoyez **apihour28** suivi de votre message au **31 035**
+* Envoyez **apihour30** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour28** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour30** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
