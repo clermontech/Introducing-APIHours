@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 28/06/2017
-Événement : APIHour #28
+Date : 30/10/2017
+Événement : APIHour #31
 -->
 
 ##### Clermont'ech fait son
-# APIHour #30
+# APIHour #31
 
-#### 14/09/2017 • Centre Jean Richepin
+#### 30/10/2017 • Pole 22 bis
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -166,35 +166,36 @@ Mentoring !
 ---
 # Merci !
 
-### Mairie
+### Pole 22 bis
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Des activités d’informatique sans ordinateur pour l’école et le collège (30 min)
-#### Malika More
+mets ta cagoule, ça va hacker ! (30 min)
+#### Julien Muetton + Vincent Mazenod
 
-Contributions google street view
-#### Paul Pinault 
+Ionic 2+, une solution pour la création d’application hybride ?
+#### Cédric Charière Fiedler
 
-A quoi servent les protocoles délimiteurs de distance
-#### Pascal lafourcade
+ Dans Le lab de TailorDev.
+#### Julien Maupetit
 
 <!-- ---------- Section ---------- -->
 ---
-#API Hour 31
+#API Hour 32
 
+Mercredi 13 décembre 2017
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour30**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour31**
 
-* Envoyez **apihour30** suivi de votre message au **31 035**
+* Envoyez **apihour31** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour30** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour31** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
