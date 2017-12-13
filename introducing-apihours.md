@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 30/10/2017
-Événement : APIHour #31
+Date : 13/12/2017
+Événement : APIHour #32
 -->
 
 ##### Clermont'ech fait son
-# APIHour #31
+# APIHour #32
 
-#### 30/10/2017 • Pole 22 bis
+#### 13/12/2017 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* ~~4 talks~~ 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -94,44 +94,52 @@ Mentoring !
 
 <!-- ---------- Section ---------- -->
 ----
-# Sponsors!
+## Sponsors!
 
 <table>
 	<tr>
-	<td>
-	<img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
-	</td>
-	<td colspan="3">
-	<img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
-	</td>
-	<td>
-	<img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
-	</td>
+	    <td>
+	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
+	    </td>
+	    <td colspan="3">
+	        <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
+	    </td>
+	    <td>
+	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
+	    </td>
 	</tr>
 	<tr>
-	<td>
-	<img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
-	</td>
-	<td colspan="2">
-	<img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="120px" />
-	</td>
-	<td>
-	<img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
-	</td>
+	    <td>
+	        <img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
+	    </td>
+	    <td colspan="3">
+	        <img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="120px" />
+	    </td>
+	    <td>
+	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
+	    </td>
 	</tr>
+    <tr>
+        <td>
+            <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
+        </td>
+        <td colspan="3">
+            <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
+        </td>
+        <td>
+            <img src="images/sponsors/iut.png" =alt="IUT" width="120px" />
+        </td>
+    </tr>
 	<tr>
-	<td>
-	<img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
-	</td>
-	<td colspan="2">
-	<img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
-	</td>
-	<td>
-	<img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
-	</td>
-	<td>
-	<img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
-	</td>
+	    <td>
+	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+	    </td>
+	    <td colspan="3">
+	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
+	    </td>
+	    <td>
+	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
+	    </td>
 	</tr>
 </table>
 
@@ -166,36 +174,39 @@ Mentoring !
 ---
 # Merci !
 
-### Pole 22 bis
+### Celtill
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-mets ta cagoule, ça va hacker ! (30 min)
-#### Julien Muetton + Vincent Mazenod
+Introduction à React Native
+#### William Durand
 
-Ionic 2+, une solution pour la création d’application hybride ?
-#### Cédric Charière Fiedler
+L’Atelier Collaboratif (ACoLab) - Fablab/Hackerspace Clermontois
+#### Thomas Trabattoni
 
- Dans Le lab de TailorDev.
-#### Julien Maupetit
+Produire des cartes pour les déficients visuels depuis OpenStreetMap
+#### Jean-Marie Favreau
+
+Introduction à Gitlab-CI
+#### Kevin Gautreau
 
 <!-- ---------- Section ---------- -->
 ---
-#API Hour 32
+#API Hour 33
 
-Mercredi 13 décembre 2017
+Mardi 23 janvier 2018
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour31**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour32**
 
-* Envoyez **apihour31** suivi de votre message au **31 035**
+* Envoyez **apihour32** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour31** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour32** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
