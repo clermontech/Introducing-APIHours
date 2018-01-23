@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 13/12/2017
-Événement : APIHour #32
+Date : 23/01/2018
+Événement : APIHour #33
 -->
 
 ##### Clermont'ech fait son
-# APIHour #32
+# APIHour #33
 
-#### 13/12/2017 • Celtill
+#### 23/01/2018 • Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -134,8 +134,11 @@ Mentoring !
 	    <td>
 	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
 	    </td>
-	    <td colspan="3">
+	    <td colspan="2">
 	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
+	    </td>
+	    <td>
+	        <img src="images/sponsors/videlio.png" alt="videlio Sponsor" width="140px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
@@ -180,33 +183,33 @@ Mentoring !
 ----
 ## Menu du jour
 
-Introduction à React Native
-#### William Durand
+Event sourcing en pratique
+#### Vincent vermersch
 
-L’Atelier Collaboratif (ACoLab) - Fablab/Hackerspace Clermontois
-#### Thomas Trabattoni
+Machine learning : un exemple d'application pour le growth hacking
+#### bertrand pelletier
 
-Produire des cartes pour les déficients visuels depuis OpenStreetMap
-#### Jean-Marie Favreau
+Kesako Kantiq
+#### thomas bailly
 
-Introduction à Gitlab-CI
-#### Kevin Gautreau
+(Brief) Introduction to Go and concurrency
+#### Sebastien Binet
 
 <!-- ---------- Section ---------- -->
 ---
-#API Hour 33
+#API Hour 34
 
-Mardi 23 janvier 2018
+Jeudi 15 mars 2018
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour32**
+* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour33**
 
-* Envoyez **apihour32** suivi de votre message au **31 035**
+* Envoyez **apihour33** suivi de votre message au **31 035**
 
-* Tweetez en utilisant **#APIHour32** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour33** ou **#APIHour** sur Twitter
 
 * Participez par minitel sur `3615 WISEMBLY`
 
