@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 23/01/2018
-Événement : APIHour #33
+Date : 15/03/2018
+Événement : APIHour #34
 -->
 
 ##### Clermont'ech fait son
-# APIHour #33
+# APIHour #34
 
-#### 23/01/2018 • Jean Richepin
+#### 15/03/2018 • Bivouac
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -18,7 +18,7 @@ Date : 23/01/2018
 `#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech(2)</div>
+<div class="ssid">clermontech</div>
 
 ----
 <!-- ---------- Section ---------- -->
@@ -177,42 +177,41 @@ Mentoring !
 ---
 # Merci !
 
-### Celtill
+### Bivouac
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Event sourcing en pratique
-#### Vincent vermersch
+Comment rechercher dans une base de données chiffrée ?
+#### Matthieu Giraud
 
-Machine learning : un exemple d'application pour le growth hacking
-#### bertrand pelletier
+De développeur à startuppeur
+#### Baptiste Moreau
 
-Kesako Kantiq
-#### thomas bailly
+l’éco-système bitcoin
+#### Paul Pinault
 
-(Brief) Introduction to Go and concurrency
-#### Sebastien Binet
+data.gouv.fr
+#### Noel Martignoni
 
 <!-- ---------- Section ---------- -->
 ---
-#API Hour 34
+#Dev camp 1
 
-Jeudi 15 mars 2018
+<img src="images/devcamp/devcamp1.png" alt="devcamp" width="500px"/>
+
+Mardi 3 avril 2018 au Bivouac
+
+<!-- ---------- Section ---------- -->
+
+---
+#API Hour 35
+
+Mercredi 25 avril 2018
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Allez sur **app.wisembly.com** et entrez le mot-clé : **apihour33**
-
-* Envoyez **apihour33** suivi de votre message au **31 035**
-
-* Tweetez en utilisant **#APIHour33** ou **#APIHour** sur Twitter
-
-* Participez par minitel sur `3615 WISEMBLY`
-
-* Participez aussi Tam Tam ou Tatoo en appelant le `16 (1) + 42 25 00 01`
-
-<img src="images/sponsors/wisembly.png" alt="Wisembly" />
+* Tweetez en utilisant **#APIHour34** ou **#APIHour** sur Twitter
