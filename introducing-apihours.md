@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
 Date : 15/03/2018
-Événement : APIHour #34
+Événement : APIHour #36
 -->
 
 ##### Clermont'ech fait son
-# APIHour #34
+# APIHour #36
 
-#### 15/03/2018 • Bivouac
+#### 19/06/2018 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -183,35 +183,20 @@ Mentoring !
 ----
 ## Menu du jour
 
-Comment rechercher dans une base de données chiffrée ?
-#### Matthieu Giraud
+RGPD Quésaco ?
+#### Pascal Lafourcade
 
-De développeur à startuppeur
-#### Baptiste Moreau
+Anatomie d’un state channel sur Ethereum - a faster way to execute smart contract
+#### Sylvain Laurent
 
-l’éco-système bitcoin
-#### Paul Pinault
+Apprivoisez le debug en Javascript !
+#### Loic Bourg
 
-data.gouv.fr
-#### Noel Martignoni
-
-<!-- ---------- Section ---------- -->
----
-#Dev camp 1
-
-<img src="images/devcamp/devcamp1.png" alt="devcamp" width="500px"/>
-
-Mardi 3 avril 2018 au Bivouac
-
-<!-- ---------- Section ---------- -->
-
----
-#API Hour 35
-
-Mercredi 25 avril 2018
+Observer un observable, tout un subject !
+#### Vincent Vermersch
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour34** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour36** ou **#APIHour** sur Twitter
