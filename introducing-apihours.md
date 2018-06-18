@@ -177,7 +177,7 @@ Mentoring !
 ---
 # Merci !
 
-### Bivouac
+### Mairie
 
 <!-- ---------- Section ---------- -->
 ----
