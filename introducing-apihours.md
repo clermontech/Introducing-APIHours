@@ -196,6 +196,14 @@ Observer un observable, tout un subject !
 #### Vincent Vermersch
 
 <!-- ---------- Section ---------- -->
+---
+#Atelier Docker
+
+<img src="images/docker.png" alt="devcamp" width="500px"/>
+
+mercredi 4 juillet 2018 au Bivouac
+
+<!-- ---------- Section ---------- -->
 ----
 # Participez !
 
