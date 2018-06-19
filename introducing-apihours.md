@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 15/03/2018
-Événement : APIHour #34
+Date : 25/04/2018
+Événement : APIHour #35
 -->
 
 ##### Clermont'ech fait son
-# APIHour #34
+# APIHour #35
 
-#### 15/03/2018 • Bivouac
+#### 25/04/2018 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -183,35 +183,24 @@ Mentoring !
 ----
 ## Menu du jour
 
-Comment rechercher dans une base de données chiffrée ?
-#### Matthieu Giraud
+Duniter: Logiciel pour la co-création d’une crypto monnaie libre et équitable
+#### Vincent Rousseau + Jérémie Picot
 
-De développeur à startuppeur
-#### Baptiste Moreau
+Les claviers
+#### Richard Degenne
 
-l’éco-système bitcoin
-#### Paul Pinault
-
-data.gouv.fr
-#### Noel Martignoni
-
-<!-- ---------- Section ---------- -->
----
-#Dev camp 1
-
-<img src="images/devcamp/devcamp1.png" alt="devcamp" width="500px"/>
-
-Mardi 3 avril 2018 au Bivouac
+Algorithmique & Programmation dynamique, rimes en ique
+#### Aymeric Brisse
 
 <!-- ---------- Section ---------- -->
 
 ---
-#API Hour 35
+#API Hour 36
 
-Mercredi 25 avril 2018
+Jeudi 14 juin 2018
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour34** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour35** ou **#APIHour** sur Twitter
