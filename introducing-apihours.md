@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 15/03/2018
+Date : 14/09/2018
 Événement : APIHour #36
 -->
 
 ##### Clermont'ech fait son
-# APIHour #36
+# APIHour #37
 
-#### 19/06/2018 • Centre Jean Richepin
+#### 14/09/2018 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -124,21 +124,17 @@ Mentoring !
             <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
         </td>
         <td colspan="3">
-            <img src="images/sponsors/wisembly.png" alt="Wisembly Sponsor" width="120px" />
         </td>
         <td>
-            <img src="images/sponsors/iut.png" =alt="IUT" width="120px" />
+	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
         </td>
     </tr>
 	<tr>
 	    <td>
-	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+            <img src="images/sponsors/iut.png" =alt="IUT" width="120px" />
 	    </td>
-	    <td colspan="2">
+	    <td colspan="3">
 	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
-	    </td>
-	    <td>
-	        <img src="images/sponsors/videlio.png" alt="videlio Sponsor" width="140px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
@@ -183,28 +179,28 @@ Mentoring !
 ----
 ## Menu du jour
 
-RGPD Quésaco ?
-#### Pascal Lafourcade
+Terraform, centraliser la gestion de votre infra
+#### Claude Dioudonnat
 
-Anatomie d’un state channel sur Ethereum - a faster way to execute smart contract
-#### Sylvain Laurent
+Using Ansible to make deployments to OpenShift versatile
+#### Julien Maupetit
 
-Apprivoisez le debug en Javascript !
-#### Loic Bourg
+Yubikey, la clé manquante à votre trousseau
+#### Manuel Raynaud
 
-Observer un observable, tout un subject !
-#### Vincent Vermersch
+Monitorer avec Grafana et Prometheus sous Kubernetes
+#### Julien Pervillé
 
 <!-- ---------- Section ---------- -->
 ---
-#Atelier Docker
+# Espace Coworking
 
-<img src="images/docker.png" alt="devcamp" width="500px"/>
+<img src="images/cowork.jpg" alt="espace de coworking" width="600px"/>
 
-mercredi 4 juillet 2018 au Bivouac
+https://www.clermontech.org/cowork.html
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour36** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour37** ou **#APIHour** sur Twitter
