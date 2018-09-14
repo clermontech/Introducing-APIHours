@@ -182,14 +182,14 @@ Mentoring !
 Terraform, centraliser la gestion de votre infra
 #### Claude Dioudonnat
 
-Using Ansible to make deployments to OpenShift versatile
-#### Julien Maupetit
-
 Yubikey, la clé manquante à votre trousseau
 #### Manuel Raynaud
 
 Monitorer avec Grafana et Prometheus sous Kubernetes
 #### Julien Pervillé
+
+Using Ansible to make deployments to OpenShift versatile
+#### Julien Maupetit
 
 <!-- ---------- Section ---------- -->
 ---
