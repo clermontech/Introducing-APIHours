@@ -1,21 +1,19 @@
 <!--
 Titre : Introducing APIHours
-Date : 14/09/2018
-Événement : APIHour #36
+Date : 18/10/2018
+Événement : Hacktoberfest 2018
 -->
 
-##### Clermont'ech fait son
-# APIHour #37
+##### Clermont'ech et l'AFUP font leur
+# Hacktoberfest 2018
 
-#### 14/09/2018 • Centre Jean Richepin
+#### 18/10/2018 • Institut de la PME
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
 [@clermontech](https://twitter.com/clermontech)
 
 [clermontech.org](http://clermontech.org)
-
-`#APIHour`
 
 <img src="images/noun_project_6036.svg" alt="wifi" />
 <div class="ssid">clermontech</div>
@@ -54,153 +52,48 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 ----
 <!-- ---------- Section ---------- -->
-# #APIHour
+# Hacktoberfest
+[https://hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)
+
 
 ---
-## #APIHour
+## Hacktoberfest
 
-* 4 talks aujourd'hui
-* 1h30 max.
-* 50 personnes max.
-* Lieu et jour variables
-* Vidéos en ligne
-* Fréquence : 6/8 semaines
-* Happy Hour !
-
-<img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
----
-## Ambassadeur
-
-<img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
+* Soutenir l'opensource et gagner un tee-shirt
+* Ouvert à toutes et à tous
+* Du 1er au 31 Octobre
+* 5 Pull Requests de qualité sur des repositories publics Github
+* Il faut s'enregistrer sur https://hacktoberfest.digitalocean.com
 
 ---
-## #APIHour
+## PR Quality
 
-Proposez-nous un talk !
+* Uniquement sur Github
+* Uniquement des PRs (les issues/commits ne comptent pas)
+* Toutes les PRs entre le 1er et le 31 Octobre comptent (même si on s'enregistre après)
+* Ce n'est pas limité au PRs/issues tagguées #Hacktoberfest
+* Les PRs comptent même si elles ne sont pas acceptées/mergées
 
-<a href="mailto:iwanttospeak@clermontech.org">iwanttospeak@clermontech.org</a>
+---
+## Par où commencer ?
 
-<a href="http://clermontech.org/api-hours/wishlist.html">Wishlist</a>
+* [Hello world](https://github.com/Hacktoberfest-2018/Hello-world)
+* [Clermont'ech](https://github.com/search?utf8=✓&q=org%3Aclermontech+label%3Ahacktoberfest&type=Issues&ref=advsearch&l=&l=)
 
-Mentoring !
+---
+## Besoin d'aide ?
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
 
-<!-- ---------- Section ---------- -->
-----
-# Clermont'ech groups
-
-<img src="images/noun_767017_cc.png" alt="clermontech groups" width="480px"/>
-
-<!-- ---------- Section ---------- -->
-----
-## Sponsors!
-
-<table>
-	<tr>
-	    <td>
-	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
-	    </td>
-	    <td colspan="3">
-	        <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
-	    </td>
-	    <td>
-	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
-	    </td>
-	</tr>
-	<tr>
-	    <td>
-	        <img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
-	    </td>
-	    <td colspan="3">
-	        <img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="120px" />
-	    </td>
-	    <td>
-	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
-	    </td>
-	</tr>
-    <tr>
-        <td>
-            <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
-        </td>
-        <td colspan="3">
-        </td>
-        <td>
-	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
-        </td>
-    </tr>
-	<tr>
-	    <td>
-            <img src="images/sponsors/iut.png" =alt="IUT" width="120px" />
-	    </td>
-	    <td colspan="3">
-	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
-	    </td>
-	    <td>
-	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
-	    </td>
-	</tr>
-</table>
-
-
 ---
-<table>
-	<tr>
-	<td>
-        <h3>Planet</h3>
-	</td>
-	<td>
-        <h3>Platydex</h3>
-	</td>
-	</tr>
-	<tr>
-	<td>
-        <img src="images/clermontech_aplat_500px.png" alt="planet logo" width="200px">
-	</td>
-	<td>
-        <img src="images/platypus-marilyn.png" alt="platypus marilyn" width="200px">
-	</td>
-	</tr>
-	<tr>
-	<td>
-        [planet.clermontech.org](http://planet.clermontech.org/)
-	</td>
-	<td>
-        [github.com/clermontech/platydex](https://github.com/clermontech/platydex)
-	</td>
-	</tr>
-</table>
+### Sponsor
+
+<img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="300px" class="icon"/>
+
 ---
 # Merci !
 
-### Mairie
+## Institut de la PME
 
-<!-- ---------- Section ---------- -->
 ----
-## Menu du jour
-
-Terraform, centraliser la gestion de votre infra
-#### Claude Dioudonnat
-
-Yubikey, la clé manquante à votre trousseau
-#### Manuel Raynaud
-
-Monitorer avec Grafana et Prometheus sous Kubernetes
-#### Julien Pervillé
-
-Using Ansible to make deployments to OpenShift versatile
-#### Julien Maupetit
-
-<!-- ---------- Section ---------- -->
----
-# Espace Coworking
-
-<img src="images/cowork.jpg" alt="espace de coworking" width="600px"/>
-
-https://www.clermontech.org/cowork.html
-
-<!-- ---------- Section ---------- -->
-----
-# Participez !
-
-* Tweetez en utilisant **#APIHour37** ou **#APIHour** sur Twitter
+# Time to hack !
