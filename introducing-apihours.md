@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 30/10/2018
-Événement : APIHour #38
+Date : 13/12/2018
+Événement : APIHour #39
 -->
 
 ##### Clermont'ech fait son
-# APIHour #38
+# APIHour #39
 
-#### 30/10/2018 • Celtill
+#### 13/12/2018 • Le Bivouac
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -181,26 +181,23 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### James
+### Le Bivouac
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Jam des Volcans, Prêts pour 48 heures de création de jeux vidéo ?
-#### Cédric Charrière
+Bug Bounty
+#### Korben
 
-PHP en 2018
-#### Alban Baixas
+Types dans Postgres
+#### Yannick Péroux
 
-Utiliser le MBTI pour mieux comprendre ses collègues
-#### Karim Bogtob
-
-gérer plutot que de subir ses API
-#### Paul Pinault
+org-mode dans emacs
+#### Evrard Van Espen
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour38** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour39** ou **#APIHour** sur Twitter
