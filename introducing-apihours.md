@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 14/09/2018
-Événement : APIHour #36
+Date : 30/10/2018
+Événement : APIHour #38
 -->
 
 ##### Clermont'ech fait son
-# APIHour #37
+# APIHour #38
 
-#### 14/09/2018 • Centre Jean Richepin
+#### 30/10/2018 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -93,6 +93,14 @@ Mentoring !
 <img src="images/noun_767017_cc.png" alt="clermontech groups" width="480px"/>
 
 <!-- ---------- Section ---------- -->
+---
+# Espace Coworking
+
+<img src="images/cowork.jpg" alt="espace de coworking" width="600px"/>
+
+https://www.clermontech.org/cowork.html
+
+<!-- ---------- Section ---------- -->
 ----
 ## Sponsors!
 
@@ -173,34 +181,26 @@ Mentoring !
 ---
 # Merci !
 
-### Mairie
+### James
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Terraform, centraliser la gestion de votre infra
-#### Claude Dioudonnat
+Jam des Volcans, Prêts pour 48 heures de création de jeux vidéo ?
+#### Cédric Charrière
 
-Yubikey, la clé manquante à votre trousseau
-#### Manuel Raynaud
+PHP en 2018
+#### Alban Baixas
 
-Monitorer avec Grafana et Prometheus sous Kubernetes
-#### Julien Pervillé
+Utiliser le MBTI pour mieux comprendre ses collègues
+#### Karim Bogtob
 
-Using Ansible to make deployments to OpenShift versatile
-#### Julien Maupetit
-
-<!-- ---------- Section ---------- -->
----
-# Espace Coworking
-
-<img src="images/cowork.jpg" alt="espace de coworking" width="600px"/>
-
-https://www.clermontech.org/cowork.html
+gérer plutot que de subir ses API
+#### Paul Pinault
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour37** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour38** ou **#APIHour** sur Twitter
