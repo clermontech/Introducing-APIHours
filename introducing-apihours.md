@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 13/12/2018
-Événement : APIHour #39
+Date : 15/01/2019
+Événement : APIHour #40
 -->
 
 ##### Clermont'ech fait son
-# APIHour #39
+# APIHour #40
 
-#### 13/12/2018 • Le Bivouac
+#### 15/01/2019 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -181,30 +181,33 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### Le Bivouac
+### Mairie
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Bug Bounty
-#### Korben
+Retour xp indépendant
+#### Kevin Gautreau
 
-Types dans Postgres
-#### Yannick Péroux
+Cybersécurité industrielle : quelles attaques, pourquoi maintenant, quelles solutions.
+#### Yann Cochard
 
-org-mode dans emacs
-#### Evrard Van Espen
+Variable… Vous avez dit variable
+#### Pascal Lafourcade
+
+Languages ésotériques
+#### Richard Degenne
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour39** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour40** ou **#APIHour** sur Twitter
 
 <!-- ---------- Section ---------- -->
 ----
 
-# APIHour #40
+# APIHour #41
 
-Le 15 Janvier 2019
+Le 7 Mars 2019
