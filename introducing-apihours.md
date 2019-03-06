@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 15/01/2019
+Date : 07/03/2019
 Événement : APIHour #40
 -->
 
 ##### Clermont'ech fait son
-# APIHour #40
+# APIHour #41
 
-#### 15/01/2019 • Centre Jean Richepin
+#### 07/03/2019 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -181,33 +181,34 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### Mairie
+### James du Celtill
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Retour xp indépendant
-#### Kevin Gautreau
+Radio logicielle : jouer avec les radiofréquences (30 min)
+#### Christophe Tilmant
 
-Cybersécurité industrielle : quelles attaques, pourquoi maintenant, quelles solutions.
-#### Yann Cochard
+Intelligence Économique, ni naïf, ni paranoïaque !
+#### Michel Cheminat
 
-Variable… Vous avez dit variable
-#### Pascal Lafourcade
-
-Languages ésotériques
-#### Richard Degenne
+Pilotage des parties prenantes: bas les masques !
+#### Cédric Klein
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour40** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour41** ou **#APIHour** sur Twitter
 
 <!-- ---------- Section ---------- -->
+---
+# Super apéro PHP
+Le 14 mars à partir de 18h au Délirium café
+
 ----
+# Little Big Event#1 - Typescript
 
-# APIHour #41
-
-Le 7 Mars 2019
+Le 21 mars 2019 au Bivouac à l'Hôtel de région
+Avec le Mug et le Lavajug <3
