@@ -1,11 +1,11 @@
 <!--
 Titre : Introducing APIHours
-Date : 07/03/2019
-Événement : APIHour #40
+Date : 27/05/2019
+Événement : APIHour #42
 -->
 
 ##### Clermont'ech fait son
-# APIHour #41
+# APIHour #42
 
 #### 07/03/2019 • Celtill
 
@@ -150,6 +150,16 @@ https://www.clermontech.org/cowork.html
 	</tr>
 </table>
 
+----
+
+<table>
+	<tr>
+	<td>
+        <img src="images/sponsors/datadog.png" alt="Datadog Sponsor" width="300px" />
+	</td>
+	</tr>
+</table>
+
 
 ---
 <table>
@@ -166,7 +176,7 @@ https://www.clermontech.org/cowork.html
         <img src="images/clermontech_aplat_500px.png" alt="planet logo" width="200px">
 	</td>
 	<td>
-        <img src="images/platypus-marilyn.png" alt="platypus marilyn" width="200px">
+        <img src="images/platy_marvin.png" alt="platypus marvin" width="200px">
 	</td>
 	</tr>
 	<tr>
@@ -181,34 +191,28 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### James du Celtill
+### Mairie de Clermont-Ferrand
+
+<!-- ---------- Section ---------- -->
+----
+# Workshop#3 : Rust
+Le 5 juin à partir de 18h à L'institut de la PME (La Pardieu)
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Radio logicielle : jouer avec les radiofréquences (30 min)
-#### Christophe Tilmant
+Machine Learning (30 min)
+#### Léo Beaucourt
 
-Intelligence Économique, ni naïf, ni paranoïaque !
-#### Michel Cheminat
+End-to-End Testing of Angular applications (en anglais)
+#### Jeanella Pascual
 
-Pilotage des parties prenantes: bas les masques !
-#### Cédric Klein
+Vault
+#### Vincent Mazenod
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour41** ou **#APIHour** sur Twitter
-
-<!-- ---------- Section ---------- -->
----
-# Super apéro PHP
-Le 14 mars à partir de 18h au Délirium café
-
-----
-# Little Big Event#1 - Typescript
-
-Le 21 mars 2019 au Bivouac à l'Hôtel de région
-Avec le Mug et le Lavajug <3
+* Tweetez en utilisant **#APIHour42** ou **#APIHour** sur Twitter
