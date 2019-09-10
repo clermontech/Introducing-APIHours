@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 27/05/2019
-Événement : APIHour #42
+Date : 10/09/2019
+Événement : APIHour #43
 -->
 
 ##### Clermont'ech fait son
-# APIHour #42
+# APIHour #43
 
-#### 07/03/2019 • Celtill
+#### 10/09/2019 • Celtill
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -191,28 +191,23 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### Mairie de Clermont-Ferrand
-
-<!-- ---------- Section ---------- -->
-----
-# Workshop#3 : Rust
-Le 5 juin à partir de 18h à L'institut de la PME (La Pardieu)
+### James du Celtill
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Machine Learning (30 min)
-#### Léo Beaucourt
+Biais cognitifs (30 min)
+#### Karim Bogtob
 
-End-to-End Testing of Angular applications (en anglais)
-#### Jeanella Pascual
+IoT
+#### Paul Pinault
 
-Vault
-#### Vincent Mazenod
+Découverte de l’Infrastructure as Code
+#### Florian Forestier
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour42** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour43** ou **#APIHour** sur Twitter
