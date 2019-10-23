@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 10/09/2019
-Événement : APIHour #43
+Date : 23/10/2019
+Événement : APIHour #44
 -->
 
 ##### Clermont'ech fait son
-# APIHour #43
+# APIHour #44
 
-#### 10/09/2019 • Celtill
+#### 23/10/2019 • IUT Informatique
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -191,23 +191,26 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### James du Celtill
+### IUT Informatique
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Biais cognitifs (30 min)
-#### Karim Bogtob
+CypressJS et comment rendre le testing funky
+#### Paul Amar
 
-IoT
-#### Paul Pinault
+Écrire son propre langage
+#### Noël Martignoni
 
-Découverte de l’Infrastructure as Code
-#### Florian Forestier
+Rust
+#### Gérald Lelong
+
+O Kapitan! My Kapitan!
+#### Julien Pervillé
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour43** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour44** ou **#APIHour** sur Twitter
