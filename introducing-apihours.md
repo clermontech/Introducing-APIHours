@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 23/10/2019
-Événement : APIHour #44
+Date : 19/12/2019
+Événement : APIHour #45
 -->
 
 ##### Clermont'ech fait son
-# APIHour #44
+# APIHour #45
 
-#### 23/10/2019 • IUT Informatique
+#### 19/12/2019 • Centre associatif Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -94,14 +94,6 @@ Mentoring !
 
 <!-- ---------- Section ---------- -->
 ---
-# Espace Coworking
-
-<img src="images/cowork.jpg" alt="espace de coworking" width="600px"/>
-
-https://www.clermontech.org/cowork.html
-
-<!-- ---------- Section ---------- -->
-----
 ## Sponsors!
 
 <table>
@@ -191,23 +183,23 @@ https://www.clermontech.org/cowork.html
 ---
 # Merci !
 
-### IUT Informatique
+### Centre associatif Jean Richepin
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-CypressJS et comment rendre le testing funky
-#### Paul Amar
+Let's Go
+#### Pierre Tachoire
 
-Écrire son propre langage
-#### Noël Martignoni
+Symfony Panther
+#### Karim Pinchon
 
-Rust
-#### Gérald Lelong
+CSS is :not(!important)
+#### David Rigaudie
 
-O Kapitan! My Kapitan!
-#### Julien Pervillé
+Les 10x developers
+#### Thomas Bailly
 
 <!-- ---------- Section ---------- -->
 ----
