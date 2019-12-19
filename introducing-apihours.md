@@ -142,16 +142,6 @@ Mentoring !
 	</tr>
 </table>
 
-----
-
-<table>
-	<tr>
-	<td>
-        <img src="images/sponsors/datadog.png" alt="Datadog Sponsor" width="300px" />
-	</td>
-	</tr>
-</table>
-
 
 ---
 <table>
@@ -183,7 +173,7 @@ Mentoring !
 ---
 # Merci !
 
-### Centre associatif Jean Richepin
+### La Mairie de Clermont-Ferrand
 
 <!-- ---------- Section ---------- -->
 ----
@@ -205,4 +195,4 @@ Les 10x developers
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour44** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour45** ou **#APIHour** sur Twitter
