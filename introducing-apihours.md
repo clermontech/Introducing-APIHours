@@ -150,17 +150,6 @@ https://www.clermontech.org/cowork.html
 	</tr>
 </table>
 
-----
-
-<table>
-	<tr>
-	<td>
-        <img src="images/sponsors/datadog.png" alt="Datadog Sponsor" width="300px" />
-	</td>
-	</tr>
-</table>
-
-
 ---
 <table>
 	<tr>
