@@ -201,9 +201,6 @@ Samedi 07/03/2020
 ΣΛΠ - Sigma Lambda Pi
 #### Christophe Prugnaud & Florian Forestier
 
-Symfony Panther
-#### Karim Pinchon
-
 Cloud init
 #### Claude Dioudonnat
 
