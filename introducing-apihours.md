@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 19/12/2019
-Événement : APIHour #45
+Date : 26/02/2020
+Événement : APIHour #46
 -->
 
 ##### Clermont'ech fait son
-# APIHour #45
+# APIHour #46
 
-#### 19/12/2019 • Centre associatif Jean Richepin
+#### 26/02/2020 • Turing 22
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -17,8 +17,8 @@ Date : 19/12/2019
 
 `#APIHour`
 
-<img src="images/noun_project_6036.svg" alt="wifi" />
-<div class="ssid">clermontech</div>
+<!-- <img src="images/noun_project_6036.svg" alt="wifi" />
+<div class="ssid">clermontech</div> -->
 
 ----
 <!-- ---------- Section ---------- -->
@@ -59,7 +59,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -88,12 +88,31 @@ Mentoring !
 
 <!-- ---------- Section ---------- -->
 ----
-# Clermont'ech groups
+## Code & coffee
 
-<img src="images/noun_767017_cc.png" alt="clermontech groups" width="480px"/>
+<div>
+	<img src="images/noun_project_2955867.svg" alt="coffee with computer" width="400px" class="icon"/>
+</div>
+Samedi 07/03/2020
+<div class="credit">
+    Crédit : <a href="https://thenounproject.com/search/?q=coffee%20computer&i=2955867" target="_blank">
+	coffee with computer</a> by PAISAN from the Noun Project
+</div>
 
 <!-- ---------- Section ---------- -->
----
+----
+## Clermont'ech groups
+
+<img src="images/noun_project_767017.svg" alt="clermontech groups" width="400px" class="icon"/>
+
+<div class="credit">
+    Crédit : <a href="https://thenounproject.com/search/?q=coffee%20computer&i=767017" target="_blank">
+	asterisk</a> by Creaticca Creative Agency from the Noun Project
+</div>
+
+
+<!-- ---------- Section ---------- -->
+----
 ## Sponsors!
 
 <table>
@@ -173,26 +192,26 @@ Mentoring !
 ---
 # Merci !
 
-### La Mairie de Clermont-Ferrand
+<img src="images/logo_turing22.png" alt="Merci" />
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Let's Go
-#### Pierre Tachoire
+ΣΛΠ - Sigma Lambda Pi
+#### Christophe Prugnaud & Florian Forestier
 
 Symfony Panther
 #### Karim Pinchon
 
-CSS is :not(!important)
-#### David Rigaudie
+Cloud init
+#### Claude Dioudonnat
 
-Les 10x developers
-#### Thomas Bailly
+Enquêtes numériques
+#### Rémi Dubourgnoux
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour45** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour46** ou **#APIHour** sur Twitter
