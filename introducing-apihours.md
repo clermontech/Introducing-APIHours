@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 26/02/2020
-Événement : APIHour #46
+Date : 11/03/2021
+Événement : APIHour #47
 -->
 
 ##### Clermont'ech fait son
-# APIHour #46
+# APIHour #47
 
-#### 26/02/2020 • Turing 22
+#### 11/03/2021 • Twitch
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -59,17 +59,17 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
-* Lieu et jour variables
-* Vidéos en ligne
-* Fréquence : 6/8 semaines
-* Happy Hour !
+* Jour variables
+* Vidéos en ligne sur Youtube
+* Fréquence : 6/8 semaines 
+* Happy Hour distanciel !
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
 ---
-## Ambassadeur
+## Ambassadeurs
 
 <img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
 
@@ -85,32 +85,6 @@ Proposez-nous un talk !
 Mentoring !
 
 <img src="images/noun_project_3568.svg" alt="Contribute" width="300px" class="icon"/>
-
-<!-- ---------- Section ---------- -->
-----
-## Code & coffee
-
-<div>
-	<img src="images/noun_project_2955867.svg" alt="coffee with computer" width="400px" class="icon"/>
-</div>
-Samedi 07/03/2020
-<div class="credit">
-    Crédit : <a href="https://thenounproject.com/search/?q=coffee%20computer&i=2955867" target="_blank">
-	coffee with computer</a> by PAISAN from the Noun Project
-</div>
-
-<!-- ---------- Section ---------- -->
-----
-## Clermont'ech groups
-
-<img src="images/noun_project_767017.svg" alt="clermontech groups" width="400px" class="icon"/>
-
-<div class="credit">
-    Crédit : <a href="https://thenounproject.com/search/?q=coffee%20computer&i=767017" target="_blank">
-	asterisk</a> by Creaticca Creative Agency from the Noun Project
-</div>
-
-
 <!-- ---------- Section ---------- -->
 ----
 ## Sponsors!
@@ -189,26 +163,33 @@ Samedi 07/03/2020
 	</td>
 	</tr>
 </table>
----
-# Merci !
-
-<img src="images/logo_turing22.png" alt="Merci" />
-
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-ΣΛΠ - Sigma Lambda Pi
-#### Christophe Prugnaud & Florian Forestier
+Mission Cryptographie
+#### Pascal Lafourcade
 
-Cloud init
-#### Claude Dioudonnat
+Helium
+#### Paul Pinault
 
-Enquêtes numériques
-#### Rémi Dubourgnoux
+LiveCoding avec FastAPI
+#### Paul Amar
+
+Alpine c’est cool
+#### Sylvain Desgrais 
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour46** ou **#APIHour** sur Twitter
+* Posez vos questions dans le chat de Twitch
+* Tweetez en utilisant **#APIHour47** ou **#APIHour** sur Twitter
+
+<!-- ---------- Section ---------- -->
+----
+# WorkAdventure
+
+<img src="images/wa.png" alt="WorkAdventure" width="480px"/>
+
+wa.clermontech.org
