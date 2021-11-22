@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 11/03/2021
-Événement : APIHour #47
+Date : 23/11/2021
+Événement : APIHour #48
 -->
 
 ##### Clermont'ech fait son
-# APIHour #47
+# APIHour #48
 
-#### 11/03/2021 • Twitch
+#### 23/11/2021 • Fontgiève
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -62,14 +62,14 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 * 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
-* Jour variables
+* Lieu et jour variables
 * Vidéos en ligne sur Youtube
-* Fréquence : 6/8 semaines 
-* Happy Hour distanciel !
+* Fréquence : 6/8 semaines
+* Happy Hour !
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
 ---
-## Ambassadeurs
+## Ambassadeur
 
 <img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
 
@@ -103,10 +103,10 @@ Mentoring !
 	</tr>
 	<tr>
 	    <td>
-	        <img src="images/sponsors/tailordev.png" alt="TailorDev Sponsor" width="120px" />
+	        <img src="images/sponsors/be-ys.png" alt="Be ys" width="120px">
 	    </td>
 	    <td colspan="3">
-	        <img src="images/sponsors/domraider.png" alt="Domraider Sponsor" width="120px" />
+	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
 	    </td>
 	    <td>
 	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
@@ -114,12 +114,11 @@ Mentoring !
 	</tr>
     <tr>
         <td>
-            <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
         </td>
         <td colspan="3">
+            <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
         </td>
         <td>
-	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
         </td>
     </tr>
 	<tr>
@@ -167,29 +166,20 @@ Mentoring !
 ----
 ## Menu du jour
 
-Mission Cryptographie
-#### Pascal Lafourcade
+React under the Hook
+#### Julien Usson
 
-Helium
-#### Paul Pinault
+UX != UI
+#### Florian Forestier
 
-LiveCoding avec FastAPI
-#### Paul Amar
+Traefik
+#### Claude Dioudonnat
 
-Alpine c’est cool
-#### Sylvain Desgrais 
+Le scaphoïde et le dev
+#### Pierre Tachoire
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Posez vos questions dans le chat de Twitch
-* Tweetez en utilisant **#APIHour47** ou **#APIHour** sur Twitter
-
-<!-- ---------- Section ---------- -->
-----
-# WorkAdventure
-
-<img src="images/wa.png" alt="WorkAdventure" width="480px"/>
-
-wa.clermontech.org
+* Tweetez en utilisant **#APIHour48** ou **#APIHour** sur Twitter
