@@ -1,17 +1,19 @@
 <!--
 Titre : Introducing APIHours
-Date : 23/11/2021
-Événement : APIHour #48
+Date : 04/04/2022
+Événement : APIHour #49
 -->
 
 ##### Clermont'ech fait son
-# APIHour #48
+# APIHour #49
 
-#### 23/11/2021 • Fontgiève
+#### 04/04/2022 • Espace Associatif Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
 [@clermontech](https://twitter.com/clermontech)
+
+[twitch.tv/clermontech](https://twitch.tv/clermontech)
 
 [clermontech.org](http://clermontech.org)
 
@@ -59,7 +61,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -166,20 +168,18 @@ Mentoring !
 ----
 ## Menu du jour
 
-React under the Hook
-#### Julien Usson
+Web 3, vers un web décentralisé ?
+#### Anthony Graignic
 
-UX != UI
-#### Florian Forestier
-
-Traefik
+Docker Swarm
 #### Claude Dioudonnat
 
-Le scaphoïde et le dev
-#### Pierre Tachoire
+La typographie
+#### Richard Degenne
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour48** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour49** ou **#APIHour** sur Twitter
+* Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
