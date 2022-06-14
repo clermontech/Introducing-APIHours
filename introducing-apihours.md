@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 04/04/2022
-Événement : APIHour #49
+Date : 14/06/2022
+Événement : APIHour #50
 -->
 
 ##### Clermont'ech fait son
-# APIHour #49
+# APIHour #50
 
-#### 04/04/2022 • Espace Associatif Jean Richepin
+#### 14/06/2022 • Salle Changil
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -125,7 +125,7 @@ Mentoring !
     </tr>
 	<tr>
 	    <td>
-            <img src="images/sponsors/iut.png" =alt="IUT" width="120px" />
+            <img src="images/sponsors/iut.png" alt="IUT" width="120px" />
 	    </td>
 	    <td colspan="3">
 	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
@@ -136,8 +136,15 @@ Mentoring !
 	</tr>
 </table>
 
+---
+## Microcosme Clermontois
+
+[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
+
+<img src="images/bbt.jpg" alt="BBT">
 
 ---
+
 <table>
 	<tr>
 	<td>
@@ -164,22 +171,28 @@ Mentoring !
 	</td>
 	</tr>
 </table>
+
+---
+# Merci !
+
+### Mairie de Clermont-Ferrand
+
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Web 3, vers un web décentralisé ?
-#### Anthony Graignic
+Quelques failles de JWT
+#### Karim Pinchon
 
-Docker Swarm
-#### Claude Dioudonnat
+Kézako le CSS Art? Pourquoi Faire?
+#### William Da Conceicao
 
-La typographie
-#### Richard Degenne
+Event modeling 
+#### Vincent Vermersch
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour49** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour50** ou **#APIHour** sur Twitter
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
