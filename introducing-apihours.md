@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 14/06/2022
-Événement : APIHour #50
+Date : 20/10/2022
+Événement : APIHour #51
 -->
 
 ##### Clermont'ech fait son
-# APIHour #50
+# APIHour #51
 
-#### 14/06/2022 • Salle Changil
+#### 20/10/2022 • Isima
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -175,24 +175,24 @@ Mentoring !
 ---
 # Merci !
 
-### Mairie de Clermont-Ferrand
+### L'Isima
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Quelques failles de JWT
-#### Karim Pinchon
+Cloud & Décentralisation
+#### Paul Pinault
 
-Kézako le CSS Art? Pourquoi Faire?
-#### William Da Conceicao
+eBPF
+#### Paul Amar
 
-Event modeling 
-#### Vincent Vermersch
+Méthodes de deep learning appliquées à la segmentation d’images de noyaux en 3D
+#### Adama Nana
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour50** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour51** ou **#APIHour** sur Twitter
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
