@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 20/10/2022
-Événement : APIHour #51
+Date : 13/12/2022
+Événement : APIHour #52
 -->
 
 ##### Clermont'ech fait son
-# APIHour #51
+# APIHour #52
 
-#### 20/10/2022 • Isima
+#### 13/12/2022 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -61,7 +61,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -96,9 +96,7 @@ Mentoring !
 	    <td>
 	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
 	    </td>
-	    <td colspan="3">
-	        <img src="images/sponsors/biocorp.png" alt="biocorp Sponsor" width="240px" style="padding-bottom:0.5em">
-	    </td>
+		<td></td>
 	    <td>
 	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
 	    </td>
@@ -107,27 +105,18 @@ Mentoring !
 	    <td>
 	        <img src="images/sponsors/be-ys.png" alt="Be ys" width="120px">
 	    </td>
-	    <td colspan="3">
-	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
-	    </td>
 	    <td>
 	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
 	    </td>
+	    <td>
+	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+	    </td>
 	</tr>
-    <tr>
-        <td>
-        </td>
-        <td colspan="3">
-            <img src="images/sponsors/itn.png" alt="ITNetwork" width="120px" />
-        </td>
-        <td>
-        </td>
-    </tr>
 	<tr>
 	    <td>
             <img src="images/sponsors/iut.png" alt="IUT" width="120px" />
 	    </td>
-	    <td colspan="3">
+	    <td>
 	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
 	    </td>
 	    <td>
@@ -175,24 +164,27 @@ Mentoring !
 ---
 # Merci !
 
-### L'Isima
+### La ville de Clermont-Ferrand
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Cloud & Décentralisation
-#### Paul Pinault
+Du web sans internet, c’est possible !
+#### Loïc Bourg
 
-eBPF
-#### Paul Amar
+Exposer votre localhost avec Expose
+#### Karim Pinchon
 
-Méthodes de deep learning appliquées à la segmentation d’images de noyaux en 3D
-#### Adama Nana
+2023 l’année du desktop Linux
+#### Emilien Mottet
+
+NATS
+#### Claude Dioudonnat
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour51** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour52** ou **#APIHour** sur Twitter
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
