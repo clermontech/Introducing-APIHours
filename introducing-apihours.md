@@ -166,6 +166,11 @@ Mentoring !
 
 ### La ville de Clermont-Ferrand
 
+---
+# 10 ans ! 🥳
+
+![](images/10yo.png)
+
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
