@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 13/12/2022
-Événement : APIHour #52
+Date : 21/02/2023
+Événement : APIHour #53
 -->
 
 ##### Clermont'ech fait son
-# APIHour #52
+# APIHour #53
 
-#### 13/12/2022 • Centre Jean Richepin
+#### 21/02/2023 • Centre Jean Richepin
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -61,7 +61,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -170,21 +170,19 @@ Mentoring !
 ----
 ## Menu du jour
 
-Du web sans internet, c’est possible !
-#### Loïc Bourg
+Le pouvoir des images et du récit : deux instruments au service de la
+complexité et de la coopération
+#### Claire Antoine
 
-Exposer votre localhost avec Expose
-#### Karim Pinchon
+La démarche OpenData de la ville de Clermont-Ferrand
+#### Yannick Vigignol
 
-2023 l’année du desktop Linux
-#### Emilien Mottet
-
-NATS
-#### Claude Dioudonnat
+Modder GTA V avec FiveM
+#### Vincent Lagneau
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour52** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour53** ou **#APIHour** sur Twitter
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
