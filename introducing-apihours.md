@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 21/02/2023
-Événement : APIHour #53
+Date : 05/05/2023
+Événement : APIHour #54
 -->
 
 ##### Clermont'ech fait son
-# APIHour #53
+# APIHour #54
 
-#### 21/02/2023 • Centre Jean Richepin
+#### 05/05/2023 • Salle Changil
 
 <img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
 
@@ -96,7 +96,9 @@ Mentoring !
 	    <td>
 	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
 	    </td>
-		<td></td>
+	    <td>
+	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
+	    </td>
 	    <td>
 	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
 	    </td>
@@ -106,7 +108,7 @@ Mentoring !
 	        <img src="images/sponsors/be-ys.png" alt="Be ys" width="120px">
 	    </td>
 	    <td>
-	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
+	        <img src="images/sponsors/apside.png" alt="Apside Sponsor" width="120px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
@@ -171,23 +173,24 @@ Mentoring !
 
 ![](images/10yo.png)
 
+Rendez-vous le ~20 Juin 🎂
+
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Le pouvoir des images et du récit : deux instruments au service de la
-complexité et de la coopération
-#### Claire Antoine
+Architecture d’un nœud de la blockchain Ethereum
+#### Anthony Graignic
 
-La démarche OpenData de la ville de Clermont-Ferrand
-#### Yannick Vigignol
+NATS JetStream
+#### Vincent Vermesch
 
-Modder GTA V avec FiveM
-#### Vincent Lagneau
+Les contextes en Go
+#### Pierre Tachoire
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour53** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour54** ou **#APIHour** sur Twitter
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
