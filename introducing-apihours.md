@@ -1,21 +1,21 @@
 <!--
 Titre : Introducing APIHours
-Date : 05/05/2023
-Événement : APIHour #54
+Date : 20/06/2023
+Événement : APIHour #55
 -->
 
 ##### Clermont'ech fait son
-# APIHour #54
+# APIHour #55
 
-#### 05/05/2023 • Salle Changil
+#### 20/06/2023 • Pôle Commun
 
-<img src="images/clermontech_mascotte_400px.png" alt="Clermont'ech logo" class="mascotte"/>
+<img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
-[@clermontech](https://twitter.com/clermontech)
-
-[twitch.tv/clermontech](https://twitch.tv/clermontech)
+[pialle.fr/@clermontech](https://piaille.fr/@clermontech)
 
 [clermontech.org](http://clermontech.org)
+
+[twitch.tv/clermontech](https://twitch.tv/clermontech)
 
 `#APIHour`
 
@@ -61,9 +61,9 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 3 talks aujourd'hui
+* 4 talks aujourd'hui
 * 1h30 max.
-* 50 personnes max.
+* ~~50~~ 100 personnes max.
 * Lieu et jour variables
 * Vidéos en ligne sur Youtube
 * Fréquence : 6/8 semaines
@@ -166,31 +166,32 @@ Mentoring !
 ---
 # Merci !
 
-### La ville de Clermont-Ferrand
+### INP Clermont Auvergne
 
 ---
 # 10 ans ! 🥳
 
 ![](images/10yo.png)
 
-Rendez-vous le ~20 Juin 🎂
-
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Architecture d’un nœud de la blockchain Ethereum
-#### Anthony Graignic
+Tests de performances: Comment s’assurer qu’une API rentre dans les clous ?
+#### Cédric Charière Fiedler
 
-NATS JetStream
-#### Vincent Vermesch
+L’incroyable histoire du premier NFT
+#### Pascal Lafourcade
 
-Les contextes en Go
-#### Pierre Tachoire
+Comment gérer des journées de 35h ?
+#### Sylvain Gougouzian
+
+10 ans de Clermont’ech
+#### La causerie des Présidents
 
 <!-- ---------- Section ---------- -->
 ----
 # Participez !
 
-* Tweetez en utilisant **#APIHour54** ou **#APIHour** sur Twitter
+* Tweetez en utilisant **#APIHour** sur ~~Twitter~~ Mastodon
 * Rejoignez le chat sur Twitch: https://twitch.tv/clermontech
