@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 20/06/2023
+Date : 26/10/2023
 Événement : APIHour #55
 -->
 
 ##### Clermont'ech fait son
-# APIHour #55
+# APIHour #56
 
-#### 20/06/2023 • Pôle Commun
+#### 26/10/2023 • Turing22
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -63,7 +63,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 * 4 talks aujourd'hui
 * 1h30 max.
-* ~~50~~ 100 personnes max.
+* 50 personnes max.
 * Lieu et jour variables
 * Vidéos en ligne sur Youtube
 * Fréquence : 6/8 semaines
@@ -166,28 +166,24 @@ Mentoring !
 ---
 # Merci !
 
-### INP Clermont Auvergne
+### Turing22 et Zenika
 
----
-# 10 ans ! 🥳
-
-![](images/10yo.png)
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Tests de performances: Comment s’assurer qu’une API rentre dans les clous ?
-#### Cédric Charière Fiedler
+Etre une femme dans le milieu de l’informatique
+#### Justine Bachelard & Axel Remack
 
-L’incroyable histoire du premier NFT
-#### Pascal Lafourcade
+Chiffrement homomorphique
+#### Gael Marcadet
 
-Comment gérer des journées de 35h ?
-#### Sylvain Gougouzian
+Les génériques (avec PHP)
+#### Karim Pinchon
 
-10 ans de Clermont’ech
-#### La causerie des Présidents
+Comment tirer le plus de valeur de vos 1:1 ?
+#### Karim Bogtob
 
 <!-- ---------- Section ---------- -->
 ----
