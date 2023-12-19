@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 26/10/2023
-Événement : APIHour #55
+Date : 19/12/2023
+Événement : APIHour #57
 -->
 
 ##### Clermont'ech fait son
-# APIHour #56
+# APIHour #57
 
-#### 26/10/2023 • Turing22
+#### 19/12/2023 • Centre Jean Richepin
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -61,7 +61,7 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 ---
 ## #APIHour
 
-* 4 talks aujourd'hui
+* 3 talks aujourd'hui
 * 1h30 max.
 * 50 personnes max.
 * Lieu et jour variables
@@ -97,7 +97,6 @@ Mentoring !
 	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
 	    </td>
 	    <td>
-	        <img src="images/sponsors/perfect-memory.png" alt="Perfect Memory Sponsor" width="120px" style="padding-bottom:0.5em">
 	    </td>
 	    <td>
 	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
@@ -119,7 +118,6 @@ Mentoring !
             <img src="images/sponsors/iut.png" alt="IUT" width="120px" />
 	    </td>
 	    <td>
-	        <img src="images/sponsors/github.png" alt="Github Sponsor" width="120px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
@@ -166,24 +164,21 @@ Mentoring !
 ---
 # Merci !
 
-### Turing22 et Zenika
+### La mairie de Clermont-Ferrand
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Etre une femme dans le milieu de l’informatique
-#### Justine Bachelard & Axel Remack
+La plomberie dans les Datacenters Azure : comment ça marche ?
+#### David Santiago & Vincent Misson
 
-Chiffrement homomorphique
-#### Gael Marcadet
+Outils de contribution à OSM
+#### Sébastien Forissier
 
-Les génériques (avec PHP)
-#### Karim Pinchon
-
-Comment tirer le plus de valeur de vos 1:1 ?
-#### Karim Bogtob
+Comment réutiliser OpenStreetMap ?
+#### Jérémy Kalsron
 
 <!-- ---------- Section ---------- -->
 ----
