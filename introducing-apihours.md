@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 19/12/2023
-Événement : APIHour #57
+Date : 05/02/2024
+Événement : APIHour #58
 -->
 
 ##### Clermont'ech fait son
-# APIHour #57
+# APIHour #58
 
-#### 19/12/2023 • Centre Jean Richepin
+#### 05/02/2024 • IUT Informatique
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -164,21 +164,21 @@ Mentoring !
 ---
 # Merci !
 
-### La mairie de Clermont-Ferrand
+### IUT Informatique
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-La plomberie dans les Datacenters Azure : comment ça marche ?
-#### David Santiago & Vincent Misson
+Raft : plongée au coeur des algorithmes de consensus
+#### Aymeric Brisse
 
-Outils de contribution à OSM
-#### Sébastien Forissier
+Expatriation : Quand l’amour et la tech s’entremêlent
+#### Anthony Graignic
 
-Comment réutiliser OpenStreetMap ?
-#### Jérémy Kalsron
+K6, loadtest et non-régression sont sur un bateau ! (30 min)
+#### Alexandre Ruiz
 
 <!-- ---------- Section ---------- -->
 ----
