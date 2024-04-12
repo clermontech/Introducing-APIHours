@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 05/02/2024
-Événement : APIHour #58
+Date : 12/04/2024
+Événement : APIHour #59
 -->
 
 ##### Clermont'ech fait son
-# APIHour #58
+# APIHour #59
 
-#### 05/02/2024 • IUT Informatique
+#### 12/04/2024 • Salle Changil
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -164,21 +164,21 @@ Mentoring !
 ---
 # Merci !
 
-### IUT Informatique
+### La ville de Clermont-Ferrand
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Raft : plongée au coeur des algorithmes de consensus
-#### Aymeric Brisse
+Utilisation de GPT dans le code applicatif (30 min)
+#### Kevin Beaugrand
 
-Expatriation : Quand l’amour et la tech s’entremêlent
-#### Anthony Graignic
+La vérité sur les monades
+#### Richard Degenne
 
-K6, loadtest et non-régression sont sur un bateau ! (30 min)
-#### Alexandre Ruiz
+DePIN (Decentralized Physical Infrastructure)
+#### Paul Pinault
 
 <!-- ---------- Section ---------- -->
 ----
