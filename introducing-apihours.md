@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 12/04/2024
-Événement : APIHour #59
+Date : 03/06/2024
+Événement : APIHour #60
 -->
 
 ##### Clermont'ech fait son
-# APIHour #59
+# APIHour #60
 
-#### 12/04/2024 • Salle Changil
+#### 03/06/2024 • Centre Jean Richepin
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -171,14 +171,14 @@ Mentoring !
 ----
 ## Menu du jour
 
-Utilisation de GPT dans le code applicatif (30 min)
-#### Kevin Beaugrand
+Ficus UI (30 min)
+#### Nicolas Torion
 
-La vérité sur les monades
-#### Richard Degenne
+Le PIC, lieu hautement connecté
+#### Mathieu Fournet & Tristan Colombet
 
-DePIN (Decentralized Physical Infrastructure)
-#### Paul Pinault
+Introduction à Zig Comptime
+#### Pierre Tachoire
 
 <!-- ---------- Section ---------- -->
 ----
