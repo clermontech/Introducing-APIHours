@@ -22,7 +22,7 @@ $mainFontSize: 36px;
 $mainColor: #333;
 
 // Headings
-$headingFont: "Neutraface Bold", "Helvetica Neue", 'Helvetica', Helvetica, Arial, sans-serif;
+$headingFont: "Nanum Bold", "Helvetica Neue", 'Helvetica', Helvetica, Arial, sans-serif;
 $headingColor: #444;
 $headingLineHeight: 0.9em;
 $headingLetterSpacing: 0.02em;
@@ -39,15 +39,15 @@ $selectionColor: #fff;
 
 // Include theme-specific fonts
 @font-face {
-    font-family: Neutraface;
-    src: url('../../lib/font/neutraface-condensed-light.otf');
+    font-family: Nanum;
+    src: url('../../lib/font/NanumGothic-Regular.ttf');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: "Neutraface Bold";
-    src: url('../../lib/font/neutraface-condensed-medium.otf');
+    font-family: "Nanum Bold";
+    src: url('../../lib/font/NanumGothic-Regular.ttf');
     font-weight: bold;
     font-style: normal;
 }
