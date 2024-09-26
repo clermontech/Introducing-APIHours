@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 03/06/2024
-Événement : APIHour #60
+Date : 26/09/2024
+Événement : APIHour #61
 -->
 
 ##### Clermont'ech fait son
-# APIHour #60
+# APIHour #61
 
-#### 03/06/2024 • Centre Jean Richepin
+#### 26/09/2024 • IUT Informatique
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -164,21 +164,21 @@ Mentoring !
 ---
 # Merci !
 
-### La ville de Clermont-Ferrand
+### IUT Informatique
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Ficus UI (30 min)
-#### Nicolas Torion
+3615 Twitch, un bot sur Minitel ? (30 min)
+#### Sylvain Gougouzian
 
-Le PIC, lieu hautement connecté
-#### Mathieu Fournet & Tristan Colombet
+SQLMesh transformation simple
+#### Vincent Vermersch
 
-Introduction à Zig Comptime
-#### Pierre Tachoire
+CQS: Un principe simple pour améliorer son code
+#### Richard Degenne
 
 <!-- ---------- Section ---------- -->
 ----
