@@ -126,11 +126,18 @@ Mentoring !
 </table>
 
 ---
+## Green Tech Auvergne
+
+<img src="images/gta.png" alt="GTA">
+
+### 26 Novembre
+
+---
 ## Microcosme Clermontois
 
-[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
+[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) //[@DataLover](https://www.meetup.com/fr-FR/cfdatalovers/) // [@GTA](https://green-tech-auvergne.fr)
 
-<img src="images/bbt.jpg" alt="BBT">
+<img src="images/bbt2.jpg" alt="BBT">
 
 ---
 
