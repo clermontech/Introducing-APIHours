@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 26/09/2024
-Événement : APIHour #61
+Date : 12/11/2024
+Événement : APIHour #62
 -->
 
 ##### Clermont'ech fait son
-# APIHour #61
+# APIHour #62
 
-#### 26/09/2024 • IUT Informatique
+#### 12/11/2024 • Simplon
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -16,6 +16,8 @@ Date : 26/09/2024
 [clermontech.org](http://clermontech.org)
 
 [twitch.tv/clermontech](https://twitch.tv/clermontech)
+
+[clermontech@googlegroups.com](https://groups.google.com/u/1/g/clermontech)
 
 `#APIHour`
 
@@ -126,25 +128,23 @@ Mentoring !
 </table>
 
 ---
-## Green Tech Auvergne
-
-<img src="images/gta.png" alt="GTA">
-
-### 26 Novembre
-
----
 ## Microcosme Clermontois
 
-[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) //[@DataLover](https://www.meetup.com/fr-FR/cfdatalovers/) // [@GTA](https://green-tech-auvergne.fr)
+[@GTA](https://green-tech-auvergne.fr) 26/11
 
-<img src="images/bbt2.jpg" alt="BBT">
+[@DataLover](https://www.meetup.com/fr-FR/cfdatalovers/) 11/12 
+
+
+[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
+
+<img src="images/bbt2.jpg" alt="BBT" width="50%">
 
 ---
 
 <table>
 	<tr>
 	<td>
-        <h3>Planet</h3>
+        <h3>Planet 2.0</h3>
 	</td>
 	<td>
         <h3>Platydex</h3>
@@ -171,21 +171,21 @@ Mentoring !
 ---
 # Merci !
 
-### IUT Informatique
+### Simplon
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-3615 Twitch, un bot sur Minitel ? (30 min)
-#### Sylvain Gougouzian
+(In)Sécurité du vote électronique • 30 min
+#### Pascal Lafourcade
 
-SQLMesh transformation simple
-#### Vincent Vermersch
+Simplifiez la gestion de vos environnements de développement avec devenv !
+#### Loïc Bourg
 
-CQS: Un principe simple pour améliorer son code
-#### Richard Degenne
+RETEX-On a monté notre cluster docker swarm de version sans downtime
+#### Florian Forestier
 
 <!-- ---------- Section ---------- -->
 ----
