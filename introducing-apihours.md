@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 12/11/2024
-Événement : APIHour #62
+Date : 10/02/2025
+Événement : APIHour #63
 -->
 
 ##### Clermont'ech fait son
-# APIHour #62
+# APIHour #63
 
-#### 12/11/2024 • Simplon
+#### 10/02/2025 • Turing 22
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -101,7 +101,7 @@ Mentoring !
 	    <td>
 	    </td>
 	    <td>
-	        <img src="images/sponsors/coffreo.png" alt="Coffreo Sponsor" width="120px" />
+	        <img src="images/sponsors/lightpanda.webp" alt="Lightpanda Sponsor" width="120px" />
 	    </td>
 	</tr>
 	<tr>
@@ -130,12 +130,11 @@ Mentoring !
 ---
 ## Microcosme Clermontois
 
-[@GTA](https://green-tech-auvergne.fr) 26/11
+[@GTA](https://green-tech-auvergne.fr) 18/02
 
-[@DataLover](https://www.meetup.com/fr-FR/cfdatalovers/) 11/12 
+[@LavaJUG](https://twitter.com/LavaJUG) 20/02
 
-
-[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
+[@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -169,23 +168,23 @@ Mentoring !
 </table>
 
 ---
-# Merci !
+### Merci !
 
-### Simplon
+# Turing 22
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-(In)Sécurité du vote électronique • 30 min
-#### Pascal Lafourcade
+Identités numériques : une histoire de confiance
+#### Anthony Graignic
 
-Simplifiez la gestion de vos environnements de développement avec devenv !
-#### Loïc Bourg
+Les reseaux LoRa mesh (meshtastic)
+#### Paul Pinault
 
-RETEX-On a monté notre cluster docker swarm de version sans downtime
-#### Florian Forestier
+TDD: Retour d’expérience
+#### Richard Degenne
 
 <!-- ---------- Section ---------- -->
 ----
