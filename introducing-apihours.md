@@ -11,7 +11,7 @@ Date : 10/02/2025
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
-[pialle.fr/@clermontech](https://piaille.fr/@clermontech)
+[piaille.fr/@clermontech](https://piaille.fr/@clermontech)
 
 [clermontech.org](http://clermontech.org)
 
