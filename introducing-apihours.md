@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 10/02/2025
-Événement : APIHour #63
+Date : 18/03/2025
+Événement : APIHour #64
 -->
 
 ##### Clermont'ech fait son
-# APIHour #63
+# APIHour #64
 
-#### 10/02/2025 • Turing 22
+#### 18/03/2025 • Centre Jean Richepin
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
 
@@ -130,11 +130,11 @@ Mentoring !
 ---
 ## Microcosme Clermontois
 
-[@GTA](https://green-tech-auvergne.fr) 18/02
+[@GTA](https://green-tech-auvergne.fr) // [@LavaJUG](https://twitter.com/LavaJUG) //
 
-[@LavaJUG](https://twitter.com/LavaJUG) 20/02
+[@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) //
 
-[@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO)
+[@VolcampIO](https://twitter.com/VolcampIO)
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -168,23 +168,30 @@ Mentoring !
 </table>
 
 ---
-### Merci !
+#### Merci !
 
-# Turing 22
+## Mairie de Clermont
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Identités numériques : une histoire de confiance
-#### Anthony Graignic
+Whisper et Peertube
+#### Manuel Raynaud
 
-Les reseaux LoRa mesh (meshtastic)
-#### Paul Pinault
+Firefox AI & WebExtensions
+#### William Durand
 
-TDD: Retour d’expérience
-#### Richard Degenne
+Typographie web : à font la forme
+#### Jean-Baptiste Penrath
+
+---
+#### Save the date
+
+## APIHour#65
+## Mardi 8 Avril
+## Turing 22
 
 <!-- ---------- Section ---------- -->
 ----
