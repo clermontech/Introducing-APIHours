@@ -1,15 +1,17 @@
 <!--
 Titre : Introducing APIHours
-Date : 18/03/2025
-Événement : APIHour #64
+Date : 08/04/2025
+Événement : APIHour #65
 -->
 
 ##### Clermont'ech fait son
-# APIHour #64
+# APIHour #65
 
-#### 18/03/2025 • Centre Jean Richepin
+#### 05/04/2025 • Turing 22
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
+
+<img src="images/clermont_inovation_week.png" width="20%" alt="CIW" class="mascotte" />
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
 
@@ -170,28 +172,22 @@ Mentoring !
 ---
 #### Merci !
 
-## Mairie de Clermont
+## Zenika
 
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Whisper et Peertube
-#### Manuel Raynaud
+Paiement par carte et vie privée 
+#### Charles Olivier-Anclin
 
-Firefox AI & WebExtensions
-#### William Durand
+ROS 2
+#### Noël Martignoni
 
-Typographie web : à font la forme
-#### Jean-Baptiste Penrath
+Les lois de la tech
+#### Romain Chapon
 
----
-#### Save the date
-
-## APIHour#65
-## Mardi 8 Avril
-## Turing 22
 
 <!-- ---------- Section ---------- -->
 ----
