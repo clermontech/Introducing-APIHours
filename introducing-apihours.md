@@ -1,17 +1,16 @@
 <!--
 Titre : Introducing APIHours
-Date : 08/04/2025
-Événement : APIHour #65
+Date : 17/09/2025
+Événement : APIHour #66
 -->
 
 ##### Clermont'ech fait son
-# APIHour #65
+# APIHour #66
 
-#### 05/04/2025 • Turing 22
+#### 17/09/2025 • IUT Informatique
 
-<img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old" class="mascotte"/>
+<img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old"  alt="CIW" class="mascotte"/>
 
-<img src="images/clermont_inovation_week.png" width="20%" alt="CIW" class="mascotte" />
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
 
@@ -132,11 +131,15 @@ Mentoring !
 ---
 ## Microcosme Clermontois
 
-[@GTA](https://green-tech-auvergne.fr) // [@LavaJUG](https://twitter.com/LavaJUG) //
+[@GTA](https://green-tech-auvergne.fr) // [@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont)
 
-[@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) //
+ [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-[@VolcampIO](https://twitter.com/VolcampIO)
+Mardi:  DatApéro #14
+
+Jeudi:  MTG (IUT) || LavaJug (Turing)
+
+02 & 03 Octobre:  VolcampIO 2025 
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -172,21 +175,20 @@ Mentoring !
 ---
 #### Merci !
 
-## Zenika
-
+## IUT Informatique
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Paiement par carte et vie privée 
-#### Charles Olivier-Anclin
+Sécurisez vos CI/CD, avec (entre autre), Trivy
+#### Jérémy Babin
 
-ROS 2
-#### Noël Martignoni
+La cryptographie post-quantique
+#### Pascal Lafourcade
 
-Les lois de la tech
-#### Romain Chapon
+Elysia : un cousin d’ExpressJS sous Bun
+#### Sylvain Gougouzian
 
 
 <!-- ---------- Section ---------- -->
