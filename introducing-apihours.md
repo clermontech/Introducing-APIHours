@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 17/09/2025
-Événement : APIHour #66
+Date : 18/11/2025
+Événement : APIHour #67
 -->
 
 ##### Clermont'ech fait son
-# APIHour #66
+# APIHour #67
 
-#### 17/09/2025 • IUT Informatique
+#### 18/11/2025 • IUT Informatique
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old"  alt="CIW" class="mascotte"/>
 
@@ -135,11 +135,11 @@ Mentoring !
 
  [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-Mardi:  DatApéro #14
+Mardi 9/12 DatApéro #15
 
-Jeudi:  MTG (IUT) || LavaJug (Turing)
+Jeudi 26/11 PyClermont #13
 
-02 & 03 Octobre:  VolcampIO 2025 
+Mardi 2/12 ~~Clermont'ech.php~~ LavaJug - PHP 8
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -175,20 +175,20 @@ Jeudi:  MTG (IUT) || LavaJug (Turing)
 ---
 #### Merci !
 
-## IUT Informatique
+## Hesias
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Sécurisez vos CI/CD, avec (entre autre), Trivy
-#### Jérémy Babin
+Maman, j’ai recodé Minecraft en Python !
+#### Gwendoline Fichant
 
-La cryptographie post-quantique
-#### Pascal Lafourcade
+Bruno, le client d’API qui a du chien
+#### Timothe Bertrand
 
-Elysia : un cousin d’ExpressJS sous Bun
-#### Sylvain Gougouzian
+Pommes de Lune
+#### Jean-Marie Favreau
 
 
 <!-- ---------- Section ---------- -->
