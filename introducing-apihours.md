@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 18/11/2025
-Événement : APIHour #67
+Date : 17/02/2026
+Événement : APIHour #69
 -->
 
 ##### Clermont'ech fait son
-# APIHour #67
+# APIHour #69
 
-#### 18/11/2025 • IUT Informatique
+#### 17/02/2026 • Centre Jean Richepin
 
 <img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old"  alt="CIW" class="mascotte"/>
 
@@ -100,20 +100,21 @@ Mentoring !
 	        <img src="images/sponsors/agaetis.png" alt="Agaetis Sponsor" width="120px" />
 	    </td>
 	    <td>
-	    </td>
-	    <td>
 	        <img src="images/sponsors/lightpanda.webp" alt="Lightpanda Sponsor" width="120px" />
+	    </td>
+		<td>
+	        <img src="images/sponsors/be-ys.png" alt="Be ys" width="120px">
 	    </td>
 	</tr>
 	<tr>
-	    <td>
-	        <img src="images/sponsors/be-ys.png" alt="Be ys" width="120px">
-	    </td>
 	    <td>
 	        <img src="images/sponsors/apside.png" alt="Apside Sponsor" width="120px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/human-booster.png" alt="Human Booster Sponsor" width="120px">
+	    </td>
+		<td>
+	        <img src="images/sponsors/clever_cloud.png" alt="Clever Cloud" width="120px">
 	    </td>
 	</tr>
 	<tr>
@@ -135,11 +136,7 @@ Mentoring !
 
  [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-Mardi 9/12 DatApéro #15
-
-Jeudi 26/11 PyClermont #13
-
-Mardi 2/12 ~~Clermont'ech.php~~ LavaJug - PHP 8
+Volcamp 1 et 2 Octobre 2026
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -181,14 +178,14 @@ Mardi 2/12 ~~Clermont'ech.php~~ LavaJug - PHP 8
 ----
 ## Menu du jour
 
-Maman, j’ai recodé Minecraft en Python !
-#### Gwendoline Fichant
+Les codes en barres, c’est pas que de la barre ! • 30 min
+#### Sylvain Gougouzian
 
-Bruno, le client d’API qui a du chien
-#### Timothe Bertrand
+Pictogrammes, normes, couleurs… Bienvenue dans le dessous des câbles
+#### Claude Dioudonnat
 
-Pommes de Lune
-#### Jean-Marie Favreau
+Faites parler vos données avec le RAG
+#### Loïc Bourg
 
 
 <!-- ---------- Section ---------- -->

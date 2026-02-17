@@ -163,7 +163,8 @@ body {
 .reveal section table {
   min-width: 100%; }
   .reveal section table tr td {
-    text-align: center; }
+    text-align: center; 
+    vertical-align: middle; }
     .reveal section table tr td img {
       float: none !important;
       margin: 0; }
