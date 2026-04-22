@@ -1,15 +1,15 @@
 <!--
 Titre : Introducing APIHours
-Date : 17/02/2026
-Événement : APIHour #69
+Date : 23/04/2026
+Événement : APIHour #70
 -->
 
 ##### Clermont'ech fait son
-# APIHour #69
+# APIHour #70
 
-#### 17/02/2026 • Centre Jean Richepin
+#### 23/04/2026 • Human Booster
 
-<img src="images/platy_10yo_400.png" alt="Clermont'ech 10 years old"  alt="CIW" class="mascotte"/>
+<img src="images/ciw2026.jpg" alt="Clermont Innovation Week 2026"  width="40%" alt="CIW" class="mascotte"/>
 
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
@@ -132,11 +132,13 @@ Mentoring !
 ---
 ## Microcosme Clermontois
 
-[@GTA](https://green-tech-auvergne.fr) // [@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont)
+[@LavaJUG](https://twitter.com/LavaJUG) // [@MTGClermont](https://twitter.com/MTGClermont) // [@PyClermont](https://twitter.com/PyClermont) 
 
- [@PyClermont](https://twitter.com/PyClermont) // [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
+[@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-Volcamp 1 et 2 Octobre 2026
+DatApéro #16 le 9 Juin
+
+Volcamp le 1 et 2 Octobre 2026
 
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
@@ -172,20 +174,20 @@ Volcamp 1 et 2 Octobre 2026
 ---
 #### Merci !
 
-## Hesias
+<img src="images/sponsors/human-booster.png" />
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Les codes en barres, c’est pas que de la barre ! • 30 min
-#### Sylvain Gougouzian
+ Le projet impossible : le client qui ne voulait pas être livré - signaux et parades • 30 min
+#### Jérôme Nano
 
-Pictogrammes, normes, couleurs… Bienvenue dans le dessous des câbles
-#### Claude Dioudonnat
+Passkeys
+#### Anthony Graignic
 
-Faites parler vos données avec le RAG
-#### Loïc Bourg
+Le(s) polymorphisme(s) en OCaml 
+#### Richard Degenne
 
 
 <!-- ---------- Section ---------- -->
