@@ -122,6 +122,7 @@ Mentoring !
             <img src="images/sponsors/iut.png" alt="IUT" width="120px" />
 	    </td>
 	    <td>
+			<img src="images/sponsors/itn.png" alt="ITN" width="120px" />
 	    </td>
 	    <td>
 	        <img src="images/sponsors/slack.png" alt="slack Sponsor" width="140px" />
