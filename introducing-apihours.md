@@ -1,15 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 23/04/2026
-Événement : APIHour #70
+Date : 27/05/2026
+Événement : APIHour #71
 -->
 
 ##### Clermont'ech fait son
-# APIHour #70
+# APIHour #71
 
-#### 23/04/2026 • Human Booster
-
-<img src="images/ciw2026.jpg" alt="Clermont Innovation Week 2026"  width="40%" alt="CIW" class="mascotte"/>
+#### 27/05/2026 • Centre Jean Richepin
 
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
@@ -175,21 +173,26 @@ Volcamp le 1 et 2 Octobre 2026
 ---
 #### Merci !
 
-<img src="images/sponsors/human-booster.png" />
+## Mairie de Clermont
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
- Le projet impossible : le client qui ne voulait pas être livré - signaux et parades • 30 min
-#### Jérôme Nano
+Mon infra@home se met à jour toute seule avec Docker, n8n… et des flux RSS
+#### Florian Forestier
 
-Passkeys
-#### Anthony Graignic
+Forward & Backward Compatibility : Le guide de survie du développeur
+#### Aymeric Brisse
 
-Le(s) polymorphisme(s) en OCaml 
-#### Richard Degenne
+Qu’est-ce qu un BoF ?
+#### Pascal Lafourcade
 
+---
+#### Save the date
+
+## APIHour #72
+## Lundi 29 Juin
 
 <!-- ---------- Section ---------- -->
 ----
