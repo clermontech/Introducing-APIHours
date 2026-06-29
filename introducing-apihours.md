@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 27/05/2026
-Événement : APIHour #71
+Date : 29/06/2026
+Événement : APIHour #72
 -->
 
 ##### Clermont'ech fait son
-# APIHour #71
+# APIHour #72
 
-#### 27/05/2026 • Centre Jean Richepin
+#### 29/06/2026 • IUT Clermont Auvergne
 
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
@@ -72,6 +72,11 @@ Clermont’ech ne se verra jamais dicter sa ligne éditoriale par des tiers ext�
 
 <img src="images/noun_project_1202.svg" alt="Speech" width="200px" class="icon"/>
 ---
+
+## Ecocup
+
+---
+
 ## Ambassadeur
 
 <img src="images/ambassador.jpg" alt="Ambassador" width="480px"/>
@@ -135,7 +140,9 @@ Mentoring !
 
 [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-DatApéro #16 le 9 Juin
+PyClermont demain 30 Juin au Fermenté
+
+Apéro No-Code vendredi 3 Juillet à la Bamboche
 
 Volcamp le 1 et 2 Octobre 2026
 
@@ -173,26 +180,26 @@ Volcamp le 1 et 2 Octobre 2026
 ---
 #### Merci !
 
-## Mairie de Clermont
+## L'IUT Informtatique
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Mon infra@home se met à jour toute seule avec Docker, n8n… et des flux RSS
-#### Florian Forestier
+Une histoire au dénouement heureux
+#### Alexis Guérin
 
-Forward & Backward Compatibility : Le guide de survie du développeur
-#### Aymeric Brisse
+Mutation testing : quand vos tests sont mis à l’épreuve
+#### Romain Rochegude
 
-Qu’est-ce qu un BoF ?
-#### Pascal Lafourcade
+Python, But Faster: Meet UV
+#### Samuel Sirven
 
 ---
 #### Save the date
 
-## APIHour #72
-## Lundi 29 Juin
+## APIHour #73
+## En septembre
 
 <!-- ---------- Section ---------- -->
 ----
