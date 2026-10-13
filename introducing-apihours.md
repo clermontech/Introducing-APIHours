@@ -1,13 +1,13 @@
 <!--
 Titre : Introducing APIHours
-Date : 29/06/2026
-Événement : APIHour #72
+Date : 13/10/2026
+Événement : APIHour #73
 -->
 
 ##### Clermont'ech fait son
-# APIHour #72
+# APIHour #73
 
-#### 29/06/2026 • IUT Clermont Auvergne
+#### 13/10/2026 • PIC
 
 
 [piaille.fr/@clermontech](https://piaille.fr/@clermontech)
@@ -140,12 +140,6 @@ Mentoring !
 
 [@VolcampIO](https://twitter.com/VolcampIO) // [@Data Lovers](https://www.meetup.com/cfdatalovers/)
 
-PyClermont demain 30 Juin au Fermenté
-
-Apéro No-Code vendredi 3 Juillet à la Bamboche
-
-Volcamp le 1 et 2 Octobre 2026
-
 <img src="images/bbt2.jpg" alt="BBT" width="50%">
 
 ---
@@ -180,26 +174,20 @@ Volcamp le 1 et 2 Octobre 2026
 ---
 #### Merci !
 
-## L'IUT Informtatique
+## PIC
 
 <!-- ---------- Section ---------- -->
 ----
 ## Menu du jour
 
-Une histoire au dénouement heureux
-#### Alexis Guérin
+Programmation Fonctionnelle : Des Bases aux Pratiques Modernes
+#### Thierry Saigne
 
-Mutation testing : quand vos tests sont mis à l’épreuve
-#### Romain Rochegude
+WebMCP: exposez votre frontend aux LLMs
+#### Pierre Tachoire
 
-Python, But Faster: Meet UV
-#### Samuel Sirven
-
----
-#### Save the date
-
-## APIHour #73
-## En septembre
+WebXR, sa vie, son oeuvre (et ses contraintes…)
+#### Florian Forestier
 
 <!-- ---------- Section ---------- -->
 ----
